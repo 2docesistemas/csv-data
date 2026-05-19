@@ -1,0 +1,49 @@
+﻿Tipo de Cargo;Número de pedido;Estado del pedido;Sucursal;Fecha del pedido;Hora;Motivo;Comentarios de los usuarios;Monto del Pedido;Reintegro al usuario por reclamo;% de cargo sobre el reintegro al usuario;Cargos por reclamos de los usuarios
+Cargos por reclamos de los usuarios;1846708354;CONFIRMADO;2docemarket;2026-01-01 00:00:00;16:57:04;Calidad del producto;;36.35;19;1.00%;-19
+Cargos por reclamos de los usuarios;1846723883;CONFIRMADO;2docemarket;2026-01-01 00:00:00;17:14:27;Producto faltante;;76.5;1.4;1.00%;-1.4
+Cargos por reclamos de los usuarios;1853078263;CONFIRMADO;2docemarket;2026-01-07 00:00:00;14:01:27;Producto incorrecto;;52.82;17.33;1.00%;-17.33
+Cargos por reclamos de los usuarios;1852912650;CONFIRMADO;2docemarket;2026-01-07 00:00:00;12:27:56;Producto incorrecto;;35;0.85;1.00%;-0.85
+Cargos por reclamos de los usuarios;1852912650;CONFIRMADO;2docemarket;2026-01-07 00:00:00;12:27:56;Producto incorrecto;;35;8.1;1.00%;-8.1
+Cargos por reclamos de los usuarios;1855018591;CONFIRMADO;2docemarket;2026-01-09 00:00:00;11:37:46;Calidad del producto;;3.51;3.49;1.00%;-3.49
+Cargos por reclamos de los usuarios;1857368059;CONFIRMADO;2docemarket;2026-01-11 00:00:00;09:08:02;Producto incorrecto;;7.34;7.34;1.00%;-7.34
+Cargos por reclamos de los usuarios;1860508377;CONFIRMADO;2docemarket;2026-01-13 00:00:00;19:32:35;Calidad del producto;;11.05;2.47;1.00%;-2.47
+Cargos por reclamos de los usuarios;1860890692;CONFIRMADO;2docemarket;2026-01-14 00:00:00;07:43:09;Orden incorrecta;;8.78;10.64;1.00%;-8.78
+Cargos por reclamos de los usuarios;1867926707;CONFIRMADO;2docemarket;2026-01-19 00:00:00;18:48:13;Producto incorrecto;;15.2;2.49;1.00%;-2.49
+Cargos por reclamos de los usuarios;1868203149;CONFIRMADO;2docemarket;2026-01-19 00:00:00;21:13:13;Producto incorrecto;;12.63;2.49;1.00%;-2.49
+Cargos por reclamos de los usuarios;1868745840;CONFIRMADO;2docemarket;2026-01-20 00:00:00;14:52:21;Producto incorrecto;;31.16;6.96;1.00%;-6.96
+Cargos por reclamos de los usuarios;1869030580;CONFIRMADO;2docemarket;2026-01-20 00:00:00;19:49:45;Producto faltante;;40.26;9.8;1.00%;-9.8
+Cargos por reclamos de los usuarios;1868745840;CONFIRMADO;2docemarket;2026-01-20 00:00:00;14:52:21;Producto incorrecto;;31.16;5.07;1.00%;-5.07
+Cargos por reclamos de los usuarios;1874948419;CONFIRMADO;2docemarket;2026-01-25 00:00:00;14:59:27;Producto incorrecto;;3.9;2.1;1.00%;-2.1
+Cargos por reclamos de los usuarios;1881596922;CONFIRMADO;2docemarket - 24hrs;2026-01-30 00:00:00;23:41:40;Producto incorrecto;;10.3;4.6;1.00%;-4.6
+Cargos por reclamos de los usuarios;1884390437;CONFIRMADO;2docemarket - 24hrs;2026-02-01 00:00:00;23:25:29;Orden incorrecta;;5.31;5.8;1.00%;-5.31
+Cargos por reclamos de los usuarios;1885583681;CONFIRMADO;2docemarket - 24hrs;2026-02-03 00:00:00;01:24:24;Calidad del producto;;4.86;3.86;1.00%;-3.86
+Cargos por reclamos de los usuarios;1890008089;CONFIRMADO;2docemarket;2026-02-06 00:00:00;21:02:07;Calidad del producto;;5.6;5.6;1.00%;-5.6
+Cargos por reclamos de los usuarios;1892301460;CONFIRMADO;2docemarket;2026-02-08 00:00:00;18:09:21;Calidad del producto;;8.7;4;1.00%;-4
+Cargos por reclamos de los usuarios;1894296835;CONFIRMADO;2docemarket;2026-02-10 00:00:00;14:49:57;Producto incorrecto;;18.5;10;1.00%;-10
+Cargos por reclamos de los usuarios;1897861549;CONFIRMADO;2docemarket;2026-02-13 00:00:00;19:04:09;Orden incorrecta;;7.99;9.33;1.00%;-7.99
+Cargos por reclamos de los usuarios;1899330138;CONFIRMADO;2docemarket;2026-02-14 00:00:00;19:49:54;Calidad del producto;;8.01;7.99;1.00%;-7.99
+Cargos por reclamos de los usuarios;1900149845;CONFIRMADO;2docemarket;2026-02-15 00:00:00;13:20:32;Producto incorrecto;;52.8;21;1.00%;-21
+Cargos por reclamos de los usuarios;1909101817;CONFIRMADO;Cafein - Las Mercedes;2026-02-22 00:00:00;20:00:05;Producto incorrecto;;8.25;9.06;1.00%;-8.25
+Cargos por reclamos de los usuarios;1914192060;CONFIRMADO;2docemarket;2026-02-27 00:00:00;14:20:45;Producto incorrecto;;13.67;6.3;1.00%;-6.3
+Cargos por reclamos de los usuarios;1917535575;CONFIRMADO;2docemarket;2026-03-01 00:00:00;20:45:01;Calidad del producto;;24.1;10;1.00%;-10
+Cargos por reclamos de los usuarios;1919787364;CONFIRMADO;2docemarket;2026-03-03 00:00:00;21:54:50;Calidad del producto;;4.01;4;1.00%;-4
+Cargos por reclamos de los usuarios;1921442549;CONFIRMADO;2docemarket;2026-03-05 00:00:00;16:47:43;Calidad del producto;;27.22;7.02;1.00%;-7.02
+Cargos por reclamos de los usuarios;1921397204;CONFIRMADO;Cafein - Las Mercedes;2026-03-05 00:00:00;16:04:34;Producto faltante;;8.25;0.49;1.00%;-0.49
+Cargos por reclamos de los usuarios;1923865502;CONFIRMADO;2docemarket;2026-03-07 00:00:00;15:43:53;Calidad del producto;;15.42;13.42;1.00%;-13.42
+Cargos por reclamos de los usuarios;1931067724;CONFIRMADO;2docemarket;2026-03-13 00:00:00;18:16:56;Producto faltante;;26.07;5.52;1.00%;-5.52
+Cargos por reclamos de los usuarios;1931431379;CONFIRMADO;2docemarket;2026-03-13 00:00:00;20:59:10;Producto faltante;;60.43;10.62;1.00%;-10.62
+Cargos por reclamos de los usuarios;1936368574;CONFIRMADO;2docemarket;2026-03-17 00:00:00;21:47:55;Producto incorrecto;;27.4;3.6;1.00%;-3.6
+Cargos por reclamos de los usuarios;1956369542;CONFIRMADO;2docemarket;2026-04-03 00:00:00;18:33:29;Calidad del producto;;34.84;6.9;1.00%;-6.9
+Cargos por reclamos de los usuarios;1955748815;CONFIRMADO;2docemarket - 24hrs;2026-04-03 00:00:00;06:31:40;Producto faltante;;19.8;4.1;1.00%;-4.1
+Cargos por reclamos de los usuarios;1963504387;CONFIRMADO;2docemarket;2026-04-09 00:00:00;21:41:28;Producto incorrecto;;38.21;2.6;1.00%;-2.6
+Cargos por reclamos de los usuarios;1964264721;CONFIRMADO;2docemarket;2026-04-10 00:00:00;16:42:53;Calidad del producto;;23.2;23.2;1.00%;-23.2
+Cargos por reclamos de los usuarios;1969362547;CONFIRMADO;2docemarket;2026-04-14 00:00:00;18:05:26;Producto incorrecto;;29.6;5.53;1.00%;-5.53
+Cargos por reclamos de los usuarios;1969361434;CONFIRMADO;Dos Doce Bistro;2026-04-14 00:00:00;18:46:05;Orden incorrecta;;10.5;4.25;1.00%;-4.25
+Cargos por reclamos de los usuarios;1969361434;CONFIRMADO;Dos Doce Bistro;2026-04-14 00:00:00;18:46:05;Orden incorrecta;;10.5;7.35;1.00%;-6.25
+Cargos por reclamos de los usuarios;1972602908;CONFIRMADO;2doce Market - Valencia;2026-04-17 00:00:00;16:44:10;Producto faltante;;11.2;6.43;1.00%;-6.43
+Cargos por reclamos de los usuarios;1975508632;CONFIRMADO;2docemarket;2026-04-19 00:00:00;18:10:18;Producto faltante;;13.81;6.9;1.00%;-6.9
+Cargos por reclamos de los usuarios;1975247358;CONFIRMADO;2doce Market - Valencia;2026-04-19 00:00:00;15:27:33;Calidad del producto;;4.18;0.76;1.00%;-0.76
+Cargos por reclamos de los usuarios;1976416804;CONFIRMADO;2docemarket;2026-04-20 00:00:00;14:05:18;Producto faltante;;8.69;4.29;1.00%;-4.29
+Cargos por reclamos de los usuarios;1980972219;CONFIRMADO;2docemarket;2026-04-24 00:00:00;18:22:10;Producto faltante;;26.1;23.61;1.00%;-23.61
+Cargos por reclamos de los usuarios;1980392577;CONFIRMADO;2docemarket;2026-04-24 00:00:00;09:16:33;Producto faltante;;51.55;6.9;1.00%;-6.9
+Cargos por reclamos de los usuarios;1982905223;CONFIRMADO;2docemarket - 24hrs;2026-04-25 00:00:00;22:35:26;Producto incorrecto;;8.4;4.8;1.00%;-4.8
