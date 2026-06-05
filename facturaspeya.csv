@@ -4191,3 +4191,623 @@
 2010531679;2docemarket - 24hrs;17/5/2026;2,45;0;0;0;0,09;0;0;-0,6;2,45;0,1;3,15;5.00%;0.00%;0,16;0;3,05;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
 2010531881;2docemarket - 24hrs;17/5/2026;6,22;0;0;0;0;0;0;-0,7;6,22;0;6,92;5.00%;0.00%;0,35;0;6,92;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
 2005989071;Cafein - Las Mercedes;14/5/2026;28;0;5;0;0;0;9;0;23;0;14;5.00%;20.00%;0,7;2,8;0;0;Si;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2010526748;2docemarket - 24hrs;18/5/2026;12,13;0;0;0;0;0;0;-1;12,13;0;13,13;5.00%;0.00%;0,66;0;13,13;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010532800;2docemarket - 24hrs;18/5/2026;12,04;0;0;0;0;0;0;-0,6;12,04;0;12,64;5.00%;0.00%;0,63;0;12,64;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010527002;2docemarket - 24hrs;18/5/2026;1,5;0;0;0;0;0;0;-0,5;1,5;0;2;5.00%;0.00%;0,1;0;2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533150;2docemarket - 24hrs;18/5/2026;9,5;0;0;0;0;0;0;-0,72;9,5;0;10,22;5.00%;0.00%;0,51;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2010533272;2docemarket - 24hrs;18/5/2026;20,23;0;0;0;0;0;0;-0,4;20,23;0;20,63;5.00%;0.00%;1,03;0;20,63;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533367;2docemarket - 24hrs;18/5/2026;5,99;0;0;0;0;0;0;-0,5;5,99;0;6,49;5.00%;0.00%;0,32;0;6,49;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533422;2docemarket - 24hrs;18/5/2026;3,35;0;0;0;0;0;0;-0,5;3,35;0;3,85;5.00%;0.00%;0,19;0;3,85;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533479;2docemarket - 24hrs;18/5/2026;8,11;0;0;0;0,09;0;0;-0,4;8,11;0,1;8,61;5.00%;0.00%;0,43;0;8,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533492;2docemarket - 24hrs;18/5/2026;9,86;0;0;0;0;0;0;-0,5;9,86;0;10,36;5.00%;0.00%;0,52;0;10,36;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010562398;2docemarket - 24hrs;18/5/2026;3,51;0;0;0;0;0;0;-0,4;3,51;0;3,91;5.00%;0.00%;0,2;0;3,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533509;2docemarket - 24hrs;18/5/2026;2,97;0;0;0;0;0;0;-0,4;2,97;0;3,37;5.00%;0.00%;0,17;0;3,37;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533518;2docemarket - 24hrs;18/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010533535;2docemarket - 24hrs;18/5/2026;4,11;0;0;0;0;0;0;-0,25;4,11;0;4,36;5.00%;0.00%;0,22;0;4,36;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010563032;2docemarket;18/5/2026;8,11;0;0;0;0;0;0;0;8,11;0;8,11;5.00%;5.00%;0,41;0,41;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2010535904;2docemarket;18/5/2026;8;0;0;0;0;0;0;0;8;0;8;5.00%;5.00%;0,4;0,4;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2010565630;2docemarket;18/5/2026;3,11;0;0;0;0;0;0;0;3,11;0;3,11;5.00%;5.00%;0,16;0,16;3,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010620045;2doce Market - Valencia;18/5/2026;18,38;0;0;0;0;0;0;0;18,38;0;18,38;5.00%;5.00%;0,92;0,92;18,38;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010630396;2docemarket;18/5/2026;19,01;0;0;0;0;0;0;0;19,01;0;19,01;5.00%;5.00%;0,95;0,95;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2010617058;2doce Market - Valencia;18/5/2026;44,47;0;0;0;0;0;0;0;44,47;0;44,47;5.00%;5.00%;2,22;2,22;44,47;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010534348;2docemarket;18/5/2026;14,92;0;0;0;0;0;0;0;14,92;0;14,92;5.00%;5.00%;0,75;0,75;14,92;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010669138;2docemarket;18/5/2026;10,4;0;0;0;0;0;0;0;10,4;0;10,4;5.00%;5.00%;0,52;0,52;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2010787337;2doce Market - Valencia;18/5/2026;7,99;0;0;0;0;0;0;0;7,99;0;7,99;5.00%;5.00%;0,4;0,4;7,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010766039;2docemarket;18/5/2026;13,04;0;0;0;0;0;0;0;13,04;0;13,04;5.00%;5.00%;0,65;0,65;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2010838346;2doce Market - Valencia;18/5/2026;7,22;0;0;0;0;0;0;0;7,22;0;7,22;5.00%;5.00%;0,36;0,36;7,22;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010853068;2docemarket;18/5/2026;8;0;0;0;0;0;0;0;8;0;8;5.00%;5.00%;0,4;0,4;8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010940636;2docemarket;18/5/2026;14,01;0;0;0;0;0;0;0;14,01;0;14,01;5.00%;5.00%;0,7;0,7;14,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2010980597;2docemarket;18/5/2026;5,4;0;0;0;0;0;0;0;5,4;0;5,4;5.00%;5.00%;0,27;0,27;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2011189636;2docemarket;18/5/2026;7,15;0;0;0;0;0;0;0;7,15;0;7,15;5.00%;5.00%;0,36;0,36;7,15;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011241231;2docemarket;18/5/2026;6,93;0;0;0;0;0;0;0;6,93;0;6,93;5.00%;5.00%;0,35;0,35;6,93;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011291331;2docemarket;18/5/2026;35,64;0;0;0;0;0;0;0;35,64;0;35,64;5.00%;5.00%;1,78;1,78;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2011297466;2docemarket;18/5/2026;6,63;0;0;0;0;0;0;0;6,63;0;6,63;5.00%;5.00%;0,33;0,33;6,63;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011331386;2docemarket;18/5/2026;12,11;0;0;0;0;0;0;0;12,11;0;12,11;5.00%;5.00%;0,61;0,61;12,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011332954;2docemarket;18/5/2026;14,1;0;0;0;0;0;0;0;14,1;0;14,1;5.00%;5.00%;0,71;0,71;14,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011334679;2docemarket;18/5/2026;22,37;0;0;0;0,12;0;0;0;22,23;0,14;22,37;5.00%;5.00%;1,12;1,12;22,23;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011388003;2docemarket;18/5/2026;12,01;0;0;0;0;0;0;0;12,01;0;12,01;5.00%;5.00%;0,6;0,6;12,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011398117;2docemarket;18/5/2026;8,21;0;0;0;0;0;0;0;8,21;0;8,21;5.00%;5.00%;0,41;0,41;8,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011393955;2docemarket;18/5/2026;5,55;0;0;0;0;0;0;0;5,55;0;5,55;5.00%;5.00%;0,28;0,28;5,55;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011435216;2docemarket;18/5/2026;17,82;0;0;0;0;0;0;0;17,82;0;17,82;5.00%;5.00%;0,89;0,89;17,82;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011469830;2docemarket - 24hrs;18/5/2026;24,8;0;0;0;0;0;0;-0,7;24,8;0;25,5;5.00%;0.00%;1,28;0;25,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2011486305;2docemarket - 24hrs;18/5/2026;3,5;0;0;0;0;0;0;-0,7;3,5;0;4,2;5.00%;0.00%;0,21;0;4,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2011472097;2docemarket - 24hrs;18/5/2026;7,71;0;0;0;0;0;0;-0,41;7,71;0;8,12;5.00%;0.00%;0,41;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2011486956;2docemarket - 24hrs;18/5/2026;6,07;0;0;0;0;0;0;-0,5;6,07;0;6,57;5.00%;0.00%;0,33;0;6,57;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2011488871;2docemarket - 24hrs;19/5/2026;8,14;0;0;0;0;0;0;-0,5;8,14;0;8,64;5.00%;0.00%;0,43;0;8,64;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2011530611;2docemarket;19/5/2026;7,9;0;0;0;0;0;0;0;7,9;0;7,9;5.00%;5.00%;0,4;0,4;7,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011489180;2docemarket;19/5/2026;3,61;0;0;0;0;0;0;0;3,61;0;3,61;5.00%;5.00%;0,18;0,18;3,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011489941;2docemarket;19/5/2026;18,4;0;0;0;0;0;0;0;18,4;0;18,4;5.00%;5.00%;0,92;0,92;18,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011532858;2doce Market - Valencia;19/5/2026;6,27;0;0;0;0;0;0;0;6,27;0;6,27;5.00%;5.00%;0,31;0,31;6,27;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011555950;2docemarket;19/5/2026;23,21;0;0;0;0;0;0;0;23,21;0;23,21;5.00%;5.00%;1,16;1,16;23,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011594755;2doce Market - Valencia;19/5/2026;7,99;0;0;0;0;0;0;0;7,99;0;7,99;5.00%;5.00%;0,4;0,4;7,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011581941;2docemarket;19/5/2026;5,8;0;0;0;0;0;0;0;5,8;0;5,8;5.00%;5.00%;0,29;0,29;5,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011684431;2doce Market - Valencia;19/5/2026;48,53;0;0;0;0;0;0;0;48,53;0;48,53;5.00%;5.00%;2,43;2,43;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2011700443;2docemarket;19/5/2026;13,22;0;0;0;0;0;0;0;13,22;0;13,22;5.00%;5.00%;0,66;0,66;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2011688859;2docemarket;19/5/2026;8,01;0;0;0;0;0;0;0;8,01;0;8,01;5.00%;5.00%;0,4;0,4;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2011763971;2docemarket;19/5/2026;6,71;0;0;0;0;0;0;0;6,71;0;6,71;5.00%;5.00%;0,34;0,34;6,71;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011854674;2docemarket;19/5/2026;20;0;0;0;0;0;0;0;20;0;20;5.00%;5.00%;1;1;20;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011858141;2doce Market - Valencia;19/5/2026;9,35;0;0;0;0;0;0;0;9,35;0;9,35;5.00%;5.00%;0,47;0,47;9,35;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011916594;2docemarket;19/5/2026;7,83;0;0;0;0;0;0;0;7,83;0;7,83;5.00%;5.00%;0,39;0,39;7,83;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011965941;2docemarket;19/5/2026;9,6;0;0;0;7,03;0;0;0;1,45;8,15;9,6;5.00%;5.00%;0,48;0,48;1,45;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2011996833;2docemarket;19/5/2026;23,6;0;0;0;0;0;0;0;23,6;0;23,6;5.00%;5.00%;1,18;1,18;23,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012047613;2docemarket;19/5/2026;19,77;0;0;0;0;0;0;0;19,77;0;19,77;5.00%;5.00%;0,99;0,99;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2012083236;2docemarket;19/5/2026;13;0;0;0;0;0;0;0;13;0;13;5.00%;5.00%;0,65;0,65;13;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012132054;2docemarket;19/5/2026;17;0;0;0;0;0;0;0;17;0;17;5.00%;5.00%;0,85;0,85;17;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012134483;2docemarket;19/5/2026;7,34;0;0;0;0;0;0;0;7,34;0;7,34;5.00%;5.00%;0,37;0,37;7,34;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012200106;2docemarket;19/5/2026;7,01;0;0;0;0;0;0;0;7,01;0;7,01;5.00%;5.00%;0,35;0,35;7,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012261879;2docemarket;19/5/2026;6,47;0;0;0;0;0;0;0;6,47;0;6,47;5.00%;5.00%;0,32;0,32;6,47;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012272079;2docemarket;19/5/2026;47,79;0;0;0;0;0;0;0;47,79;0;47,79;5.00%;5.00%;2,39;2,39;47,79;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012305711;2docemarket;19/5/2026;13,79;0;0;0;0;0;0;0;13,79;0;13,79;5.00%;5.00%;0,69;0,69;13,79;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012422559;2docemarket;19/5/2026;5,8;0;0;0;0;0;0;0;5,8;0;5,8;5.00%;5.00%;0,29;0,29;5,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012423131;2docemarket;19/5/2026;11,56;0;0;0;0;0;0;0;11,56;0;11,56;5.00%;5.00%;0,58;0,58;11,56;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012475426;2docemarket;19/5/2026;16,81;0;0;0;0;0;0;0;16,81;0;16,81;5.00%;5.00%;0,84;0,84;16,81;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012538679;2docemarket - 24hrs;19/5/2026;4,7;0;0;0;0;0;0;-0,5;4,7;0;5,2;5.00%;0.00%;0,26;0;5,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012531818;2docemarket - 24hrs;19/5/2026;36,29;0;0;0;0;0;0;-0,7;36,29;0;36,99;5.00%;0.00%;1,85;0;36,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012539884;2docemarket - 24hrs;19/5/2026;12,6;0;0;0;0;0;0;-0,5;12,6;0;13,1;5.00%;0.00%;0,66;0;13,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012534591;2docemarket - 24hrs;20/5/2026;3,21;0;0;0;0;0;0;-0,4;3,21;0;3,61;5.00%;0.00%;0,18;0;3,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012534778;2docemarket - 24hrs;20/5/2026;9,75;0;0;0;0;0;0;-0,5;9,75;0;10,25;5.00%;0.00%;0,51;0;10,25;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012534830;2docemarket - 24hrs;20/5/2026;8,01;0;0;0;0;0;0;-0,5;8,01;0;8,51;5.00%;0.00%;0,43;0;8,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012534860;2docemarket - 24hrs;20/5/2026;10,32;0;0;0;0;0;0;-0,5;10,32;0;10,82;5.00%;0.00%;0,54;0;10,82;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012541860;2docemarket - 24hrs;20/5/2026;7,98;0;0;0;0,09;0;0;-0,6;7,98;0,1;8,68;5.00%;0.00%;0,43;0;8,58;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2012535682;2docemarket;20/5/2026;22;0;0;0;0;0;0;0;22;0;22;5.00%;5.00%;1,1;1,1;22;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012542848;2docemarket;20/5/2026;26,46;0;0;0;0;0;0;0;26,46;0;26,46;5.00%;5.00%;1,32;1,32;26,46;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012642723;2doce Market - Valencia;20/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012822852;2docemarket;20/5/2026;16,09;0;0;0;0;0;0;0;16,09;0;16,09;5.00%;5.00%;0,8;0,8;16,09;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012982149;2docemarket;20/5/2026;16;0;0;0;0;0;0;0;16;0;16;5.00%;5.00%;0,8;0,8;16;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2012984506;2doce Market - Valencia;20/5/2026;7,99;0;0;0;0;0;0;0;7,99;0;7,99;5.00%;5.00%;0,4;0,4;7,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013084393;2doce Market - Valencia;20/5/2026;9,05;0;0;0;0;0;0;0;9,05;0;9,05;5.00%;5.00%;0,45;0,45;9,05;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013103383;2docemarket;20/5/2026;26;0;0;0;0;0;0;0;26;0;26;5.00%;5.00%;1,3;1,3;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2013089961;2doce Market - Valencia;20/5/2026;6,56;0;0;0;0;0;0;0;6,56;0;6,56;5.00%;5.00%;0,33;0,33;6,56;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013194919;2docemarket;20/5/2026;21;0;0;0;0;0;0;0;21;0;21;5.00%;5.00%;1,05;1,05;21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013183848;2docemarket;20/5/2026;4,51;0;0;0;0;0;0;0;4,51;0;4,51;5.00%;5.00%;0,23;0,23;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2013200589;2docemarket;20/5/2026;15;0;0;0;0;0;0;0;15;0;15;5.00%;5.00%;0,75;0,75;15;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013246212;2docemarket;20/5/2026;13,9;0;0;0;0;0;0;0;13,9;0;13,9;5.00%;5.00%;0,7;0,7;13,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013255160;2docemarket;20/5/2026;40;0;0;0;0;0;0;0;40;0;40;5.00%;5.00%;2;2;40;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013379387;2docemarket;20/5/2026;54,2;0;0;0;0;0;0;0;54,2;0;54,2;5.00%;5.00%;2,71;2,71;54,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013420024;2docemarket;20/5/2026;6,96;0;0;0;0,32;0;0;0;6,64;0,32;6,96;5.00%;5.00%;0,35;0,35;6,64;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013424330;2docemarket;20/5/2026;21,89;0;0;0;0;0;0;0;21,89;0;21,89;5.00%;5.00%;1,09;1,09;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2013426188;2docemarket;20/5/2026;33,63;0;0;0;0,45;0;0;0;33,18;0,45;33,63;5.00%;5.00%;1,68;1,68;33,18;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013474523;2docemarket;20/5/2026;3,59;0;0;0;0,36;0;0;0;3,23;0,36;3,59;5.00%;5.00%;0,18;0,18;3,23;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013479203;2docemarket;20/5/2026;9,61;0;0;0;0;0;0;0;9,61;0;9,61;5.00%;5.00%;0,48;0,48;9,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013478673;2docemarket;20/5/2026;16;0;0;0;0;0;0;0;16;0;16;5.00%;5.00%;0,8;0,8;16;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013480838;2docemarket;20/5/2026;36,3;0;0;0;3,23;0;0;0;33,07;3,23;36,3;5.00%;5.00%;1,82;1,82;33,07;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013495585;2docemarket;20/5/2026;4,11;0;0;0;0;0;0;0;4,11;0;4,11;5.00%;5.00%;0,21;0,21;4,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013525879;2docemarket;20/5/2026;16,2;0;0;0;0,22;0;0;0;15,98;0,22;16,2;5.00%;5.00%;0,81;0,81;15,98;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013565494;2docemarket - 24hrs;20/5/2026;14,1;0;0;0;1,89;0;0;-0,7;12,21;1,89;14,8;5.00%;0.00%;0,74;0;12,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013568329;2docemarket - 24hrs;20/5/2026;24;0;0;0;0;0;0;-0,7;24;0;24,7;5.00%;0.00%;1,24;0;24,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013568841;2docemarket - 24hrs;20/5/2026;4,7;0;0;0;0,47;0;0;-0,5;4,23;0,47;5,2;5.00%;0.00%;0,26;0;4,73;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013569209;2docemarket - 24hrs;20/5/2026;21,53;0;0;0;0;0;0;-0,5;21,53;0;22,03;5.00%;0.00%;1,1;0;22,03;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013569294;2docemarket - 24hrs;20/5/2026;8,88;0;0;0;0,9;0;0;-0,7;7,98;0,9;9,58;5.00%;0.00%;0,48;0;8,68;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013570109;2docemarket - 24hrs;20/5/2026;3,5;0;0;0;0;0;0;-1;3,5;0;4,5;5.00%;0.00%;0,23;0;4,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013619037;2docemarket - 24hrs;21/5/2026;13,34;0;0;0;2,7;0;0;-0,5;10,64;2,7;13,84;5.00%;0.00%;0,69;0;11,14;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013593519;2docemarket - 24hrs;21/5/2026;11,5;0;0;0;1,1;0;0;-0,7;10,4;1,1;12,2;5.00%;0.00%;0,61;0;11,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013593960;2docemarket - 24hrs;21/5/2026;6,2;0;0;0;0;0;0;-0,7;6,2;0;6,9;5.00%;0.00%;0,35;0;6,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013619602;2docemarket - 24hrs;21/5/2026;28;0;0;0;0;0;0;-0,7;28;0;28,7;5.00%;0.00%;1,44;0;28,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013619670;2docemarket - 24hrs;21/5/2026;7,8;0;0;0;0,37;0;0;-0,7;7,43;0,37;8,5;5.00%;0.00%;0,43;0;8,13;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013619679;2docemarket - 24hrs;21/5/2026;5;0;0;0;0;0;0;-0,5;5;0;5,5;5.00%;0.00%;0,28;0;5,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2013594047;2docemarket - 24hrs;21/5/2026;4,5;0;0;0;0;0;0;-0,52;4,5;0;5,02;5.00%;0.00%;0,25;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2013620984;2docemarket;21/5/2026;15,2;0;0;0;0;0;0;0;15,2;0;15,2;5.00%;5.00%;0,76;0,76;15,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013669701;2docemarket;21/5/2026;26,01;0;0;0;0;0;0;0;26,01;0;26,01;5.00%;5.00%;1,3;1,3;26,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013669995;2doce Market - Valencia;21/5/2026;8,29;0;0;0;0;0;0;0;8,29;0;8,29;5.00%;5.00%;0,41;0,41;8,29;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013670561;2docemarket;21/5/2026;4,1;0;0;0;0;0;0;0;4,1;0;4,1;5.00%;5.00%;0,21;0,21;4,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013692668;2docemarket;21/5/2026;39,9;0;0;0;0;0;0;0;39,9;0;39,9;5.00%;5.00%;2;2;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2013719235;2doce Market - Valencia;21/5/2026;23,02;0;0;0;0,3;0;0;0;22,72;0,3;23,02;5.00%;5.00%;1,15;1,15;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2013765100;2docemarket;21/5/2026;16,01;0;0;0;3,24;0;0;0;12,77;3,24;16,01;5.00%;5.00%;0,8;0,8;12,77;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013828073;2docemarket;21/5/2026;10,6;0;0;0;0;0;0;0;10,6;0;10,6;5.00%;5.00%;0,53;0,53;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2013799753;2docemarket;21/5/2026;16,3;0;0;0;0;0;0;0;16,3;0;16,3;5.00%;5.00%;0,82;0,82;16,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013912935;2docemarket;21/5/2026;4;0;0;0;0;0;0;0;4;0;4;5.00%;5.00%;0,2;0,2;4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013952248;2docemarket;21/5/2026;5,86;0;0;0;0;0;0;0;5,86;0;5,86;5.00%;5.00%;0,29;0,29;5,86;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2013983214;2docemarket;21/5/2026;16,09;0;0;0;1,62;0;0;0;14,47;1,62;16,09;5.00%;5.00%;0,8;0,8;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2014009702;2doce Market - Valencia;21/5/2026;11,37;0;0;0;0;0;0;0;11,37;0;11,37;5.00%;5.00%;0,57;0,57;11,37;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014029850;2doce Market - Valencia;21/5/2026;10,49;0;0;0;0;0;0;0;10,49;0;10,49;5.00%;5.00%;0,52;0,52;10,49;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014033437;2docemarket;21/5/2026;40;0;0;0;0;0;0;0;40;0;40;5.00%;5.00%;2;2;40;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014063197;2docemarket;21/5/2026;71,28;0;0;0;7,2;0;0;0;64,08;7,2;71,28;5.00%;5.00%;3,56;3,56;64,08;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014179722;2docemarket;21/5/2026;47,05;0;0;0;4,84;0;0;0;41,44;5,61;47,05;5.00%;5.00%;2,35;2,35;41,44;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014181275;2docemarket;21/5/2026;3,01;0;0;0;0;0;0;0;3,01;0;3,01;5.00%;5.00%;0,15;0,15;3,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014184816;2doce Market - Valencia;21/5/2026;15,3;0;0;0;0;0;0;0;15,3;0;15,3;5.00%;5.00%;0,77;0,77;15,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014214902;2docemarket;21/5/2026;21,28;0;0;0;0,9;0;0;0;20,38;0,9;21,28;5.00%;5.00%;1,06;1,06;20,38;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014209424;2docemarket;21/5/2026;71,99;0;0;0;7,2;0;0;0;64,79;7,2;71,99;5.00%;5.00%;3,6;3,6;64,79;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014253037;2doce Market - Valencia;21/5/2026;10,25;0;0;0;0,3;0;0;0;9,95;0,3;10,25;5.00%;5.00%;0,51;0,51;9,95;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014254181;2docemarket;21/5/2026;31,35;0;0;0;0;0;0;0;31,35;0;31,35;5.00%;5.00%;1,57;1,57;31,35;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014254759;2docemarket;21/5/2026;3,5;0;0;0;0;0;0;0;3,5;0;3,5;5.00%;5.00%;0,18;0,18;3,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014276940;2docemarket;21/5/2026;69,04;0;0;0;0,74;0;0;0;68,3;0,74;69,04;5.00%;5.00%;3,45;3,45;68,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014281606;2docemarket;21/5/2026;21,42;0;0;0;0,48;0;0;0;20,94;0,48;21,42;5.00%;5.00%;1,07;1,07;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2014281683;2docemarket;21/5/2026;36;0;0;0;3,6;0;0;0;32,4;3,6;36;5.00%;5.00%;1,8;1,8;32,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014337123;2docemarket;21/5/2026;7;0;0;0;0;0;0;0;7;0;7;5.00%;5.00%;0,35;0,35;7;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014382920;2docemarket;21/5/2026;16,14;0;0;0;0,15;0;0;0;15,99;0,15;16,14;5.00%;5.00%;0,81;0,81;15,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014446549;2docemarket;21/5/2026;77,76;0;0;0;0;0;0;0;77,76;0;77,76;5.00%;5.00%;3,89;3,89;77,76;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014496260;2docemarket;21/5/2026;7,5;0;0;0;0;0;0;0;7,5;0;7,5;5.00%;5.00%;0,38;0,38;7,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014539476;2docemarket;21/5/2026;13,38;0;0;0;0;0;0;0;13,38;0;13,38;5.00%;5.00%;0,67;0,67;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2014565185;2docemarket;21/5/2026;3,5;0;0;0;0;0;0;0;3,5;0;3,5;5.00%;5.00%;0,18;0,18;3,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014568300;2docemarket;21/5/2026;24,97;0;0;0;0;0;0;0;24,97;0;24,97;5.00%;5.00%;1,25;1,25;24,97;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014589152;2docemarket;21/5/2026;4,1;0;0;0;0;0;0;0;4,1;0;4,1;5.00%;5.00%;0,21;0,21;4,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014613269;2docemarket;21/5/2026;13,38;0;0;0;0;0;0;0;13,38;0;13,38;5.00%;5.00%;0,67;0,67;13,38;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014613351;2docemarket;21/5/2026;3,5;0;0;0;0;0;0;0;3,5;0;3,5;5.00%;5.00%;0,18;0,18;3,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014661519;2docemarket - 24hrs;21/5/2026;5,34;0;0;0;1,08;0;0;-0,5;4,26;1,08;5,84;5.00%;0.00%;0,29;0;4,76;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014662018;2docemarket - 24hrs;21/5/2026;7,45;0;0;0;0,54;0;0;-0,5;6,91;0,54;7,95;5.00%;0.00%;0,4;0;7,41;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014662513;2docemarket - 24hrs;21/5/2026;15,3;0;0;0;0,16;0;0;-0,7;15,14;0,16;16;5.00%;0.00%;0,8;0;15,84;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014714685;2docemarket - 24hrs;21/5/2026;3,5;0;0;0;0;0;0;-0,7;3,5;0;4,2;5.00%;0.00%;0,21;0;4,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014715033;2docemarket - 24hrs;21/5/2026;3,8;0;0;0;0;0;0;-0,5;3,8;0;4,3;5.00%;0.00%;0,22;0;4,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014708215;2docemarket - 24hrs;21/5/2026;13;0;0;0;0;0;0;-0,72;13;0;13,72;5.00%;0.00%;0,69;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2014738405;2docemarket - 24hrs;21/5/2026;6,09;0;0;0;0,18;0;0;-0,5;5,91;0,18;6,59;5.00%;0.00%;0,33;0;6,41;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014739091;2docemarket - 24hrs;21/5/2026;10;0;0;0;0,47;0;0;-0,5;9,53;0,47;10,5;5.00%;0.00%;0,53;0;10,03;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014709884;2docemarket - 24hrs;22/5/2026;7,8;0;0;0;0,78;0;0;-0,7;7,02;0,78;8,5;5.00%;0.00%;0,43;0;7,72;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740694;2docemarket - 24hrs;22/5/2026;4,41;0;0;0;0,44;0;0;-0,52;3,97;0,44;4,93;5.00%;0.00%;0,25;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2014710640;2docemarket - 24hrs;22/5/2026;4,34;0;0;0;0;0;0;-0,7;4,34;0;5,04;5.00%;0.00%;0,25;0;5,04;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740794;2docemarket - 24hrs;22/5/2026;6,24;0;0;0;0,66;0;0;-0,7;5,58;0,66;6,94;5.00%;0.00%;0,35;0;6,28;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014710707;2docemarket - 24hrs;22/5/2026;14,8;0;0;0;1,5;0;0;-0,7;13,3;1,5;15,5;5.00%;0.00%;0,78;0;14;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740852;2docemarket - 24hrs;22/5/2026;20;0;0;0;0;0;0;-0,7;20;0;20,7;5.00%;0.00%;1,04;0;20,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740853;2docemarket - 24hrs;22/5/2026;5,23;0;0;0;0,16;0;0;-0,7;5,07;0,16;5,93;5.00%;0.00%;0,3;0;5,77;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740855;2docemarket - 24hrs;22/5/2026;6,6;0;0;0;3,62;0;0;0;2,93;4,17;7,1;5.00%;0.00%;0,36;0;2,93;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740856;2docemarket - 24hrs;22/5/2026;3,5;0;0;0;0;0;0;-0,4;3,5;0;3,9;5.00%;0.00%;0,2;0;3,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740861;2docemarket - 24hrs;22/5/2026;21,11;0;0;0;1,62;0;0;-0,5;19,49;1,62;21,61;5.00%;0.00%;1,08;0;19,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014740875;2docemarket - 24hrs;22/5/2026;11,4;0;0;0;0;0;0;-0,5;11,4;0;11,9;5.00%;0.00%;0,6;0;11,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2014741204;2docemarket;22/5/2026;5,01;0;0;0;0;0;0;0;5,01;0;5,01;5.00%;5.00%;0,25;0,25;5,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014795869;2docemarket;22/5/2026;80;0;0;0;0;0;0;0;80;0;80;5.00%;5.00%;4;4;80;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014801856;2docemarket;22/5/2026;10,68;0;0;0;0;0;0;0;10,68;0;10,68;5.00%;5.00%;0,53;0,53;10,68;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014901010;2docemarket;22/5/2026;12,51;0;0;0;0;0;0;0;12,51;0;12,51;5.00%;5.00%;0,63;0,63;12,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014904085;2docemarket;22/5/2026;16,12;0;0;0;0;0;0;0;16,12;0;16,12;5.00%;5.00%;0,81;0,81;16,12;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014948329;Dos Doce Bistro;22/5/2026;7,8;0;0;0;0;0;0;0;7,8;0;7,8;5.00%;15.00%;0,39;1,17;7,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014948693;2docemarket;22/5/2026;23,21;0;0;0;0;0;0;0;23,21;0;23,21;5.00%;5.00%;1,16;1,16;23,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014966901;2docemarket;22/5/2026;15,75;0;0;0;0;0;0;0;15,75;0;15,75;5.00%;5.00%;0,79;0,79;15,75;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2014950823;2docemarket;22/5/2026;14,38;0;0;0;0;0;0;0;14,38;0;14,38;5.00%;5.00%;0,72;0,72;14,38;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015011558;2docemarket;22/5/2026;50,85;0;0;0;0,36;0;0;0;50,49;0,36;50,85;5.00%;5.00%;2,54;2,54;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2015091144;2doce Market - Valencia;22/5/2026;7,46;0;0;0;0;0;0;0;7,46;0;7,46;5.00%;5.00%;0,37;0,37;7,46;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015166625;2docemarket;22/5/2026;8,01;0;0;0;1,62;0;0;0;6,39;1,62;8,01;5.00%;5.00%;0,4;0,4;6,39;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015167302;2docemarket;22/5/2026;12;0;0;0;0;0;0;0;12;0;12;5.00%;5.00%;0,6;0,6;12;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015247585;2doce Market - Valencia;22/5/2026;8,65;0;0;0;0;0;0;0;8,65;0;8,65;5.00%;5.00%;0,43;0,43;8,65;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015266223;2docemarket;22/5/2026;55,2;0;0;0;3,6;0;0;0;51,6;3,6;55,2;5.00%;5.00%;2,76;2,76;51,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015307997;2docemarket;22/5/2026;4;0;0;0;0,4;0;0;0;3,6;0,4;4;5.00%;5.00%;0,2;0,2;3,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015295055;2docemarket;22/5/2026;12;0;0;0;0;0;0;0;12;0;12;5.00%;5.00%;0,6;0,6;12;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015324274;2doce Market - Valencia;22/5/2026;4,55;0;0;0;0;0;0;0;4,55;0;4,55;5.00%;5.00%;0,23;0,23;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2015352498;2docemarket;22/5/2026;24,49;0;0;0;2,8;0;0;0;21,69;2,8;24,49;5.00%;5.00%;1,22;1,22;21,69;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015378909;2doce Market - Valencia;22/5/2026;3;0;0;0;0;0;0;0;3;0;3;5.00%;5.00%;0,15;0,15;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2015385738;2docemarket;22/5/2026;62,36;0;0;0;3,09;0;0;0;59,27;3,09;62,36;5.00%;5.00%;3,12;3,12;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2015444445;2doce Market - Valencia;22/5/2026;10,48;0;0;0;0;0;0;0;10,48;0;10,48;5.00%;5.00%;0,52;0,52;10,48;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015454422;2doce Market - Valencia;22/5/2026;11,03;0;0;0;1,1;0;0;0;9,93;1,1;11,03;5.00%;5.00%;0,55;0,55;9,93;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015498679;2docemarket;22/5/2026;41,99;0;0;0;0;0;0;0;41,99;0;41,99;5.00%;5.00%;2,1;2,1;41,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015502541;2docemarket;22/5/2026;52,69;0;0;0;0;0;0;0;52,69;0;52,69;5.00%;5.00%;2,63;2,63;52,69;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015581480;2docemarket;22/5/2026;27,85;0;0;0;0;0;0;0;27,85;0;27,85;5.00%;5.00%;1,39;1,39;27,85;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015652737;2docemarket;22/5/2026;7,8;0;0;0;0,3;0;0;0;7,5;0,3;7,8;5.00%;5.00%;0,39;0,39;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2015686616;2docemarket;22/5/2026;27;0;0;0;0;0;0;0;27;0;27;5.00%;5.00%;1,35;1,35;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2015763128;2docemarket;22/5/2026;12,02;0;0;0;0;0;0;0;12,02;0;12,02;5.00%;5.00%;0,6;0,6;12,02;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015748942;2docemarket;22/5/2026;19,66;0;0;0;0,18;0;0;0;19,48;0,18;19,66;5.00%;5.00%;0,98;0,98;19,48;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015820356;2docemarket;22/5/2026;16,22;0;0;0;0;0;0;0;16,22;0;16,22;5.00%;5.00%;0,81;0,81;16,22;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015863256;2docemarket;22/5/2026;17,01;0;0;0;0;0;0;0;17,01;0;17,01;5.00%;5.00%;0,85;0,85;17,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015909767;2docemarket;22/5/2026;8,21;0;0;0;0;0;0;0;8,21;0;8,21;5.00%;5.00%;0,41;0,41;8,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2015982060;2docemarket - 24hrs;22/5/2026;11;0;0;0;0,15;0;0;-0,4;10,85;0,15;11,4;5.00%;0.00%;0,57;0;11,25;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2015983034;2docemarket - 24hrs;22/5/2026;8;0;0;0;0;0;0;-0,26;8;0;8,26;5.00%;0.00%;0,41;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2015969923;2docemarket - 24hrs;22/5/2026;4,11;0;0;0;1,98;0;0;0;2,21;2,3;4,51;5.00%;0.00%;0,23;0;2,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016018449;2docemarket - 24hrs;22/5/2026;14,37;0;0;0;1,35;0;0;-0,7;13,02;1,35;15,07;5.00%;0.00%;0,75;0;13,72;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016035167;2docemarket - 24hrs;22/5/2026;7,9;0;0;0;0;0;0;-0,7;7,9;0;8,6;5.00%;0.00%;0,43;0;8,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016039459;2docemarket - 24hrs;23/5/2026;21,3;0;0;0;0;0;0;-0,5;21,3;0;21,8;5.00%;0.00%;1,09;0;21,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016039765;2docemarket - 24hrs;23/5/2026;35,99;0;0;0;3,6;0;0;-0,7;32,39;3,6;36,69;5.00%;0.00%;1,83;0;33,09;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016025465;2docemarket - 24hrs;23/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016025660;2docemarket - 24hrs;23/5/2026;10,82;0;0;0;0,16;0;0;-0,7;10,66;0,16;11,52;5.00%;0.00%;0,58;0;11,36;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016025779;2docemarket - 24hrs;23/5/2026;8,91;0;0;0;0,9;0;0;-0,5;8,01;0,9;9,41;5.00%;0.00%;0,47;0;8,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016040193;2docemarket - 24hrs;23/5/2026;4,5;0;0;0;0;0;0;-0,5;4,5;0;5;5.00%;0.00%;0,25;0;5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2016074909;2docemarket;23/5/2026;11,14;0;0;0;0;0;0;0;11,14;0;11,14;5.00%;5.00%;0,56;0,56;11,14;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016101873;2docemarket;23/5/2026;40,77;0;0;0;0;0;0;0;40,77;0;40,77;5.00%;5.00%;2,04;2,04;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2016147437;2docemarket;23/5/2026;10;0;0;0;0;0;0;0;10;0;10;5.00%;5.00%;0,5;0,5;10;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016164550;2doce Market - Valencia;23/5/2026;17,07;0;0;0;0;0;0;0;17,07;0;17,07;5.00%;5.00%;0,85;0,85;17,07;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016276652;2docemarket;23/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016279125;2doce Market - Valencia;23/5/2026;16,04;0;0;0;0,3;0;0;0;15,74;0,3;16,04;5.00%;5.00%;0,8;0,8;15,74;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016279088;2doce Market - Valencia;23/5/2026;25,43;0;0;0;0,3;0;0;0;25,13;0,3;25,43;5.00%;5.00%;1,27;1,27;25,13;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016322852;2doce Market - Valencia;23/5/2026;26,55;0;0;0;1,98;0;0;0;24,57;1,98;26,55;5.00%;5.00%;1,33;1,33;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2016471526;2docemarket;23/5/2026;8,33;0;0;0;0;0;0;0;8,33;0;8,33;5.00%;5.00%;0,42;0,42;8,33;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016580639;2doce Market - Valencia;23/5/2026;37,4;0;0;0;0,6;0;0;0;36,8;0,6;37,4;5.00%;5.00%;1,87;1,87;36,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016642753;2docemarket;23/5/2026;18;0;0;0;1;0;0;0;17;1;18;5.00%;5.00%;0,9;0,9;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2016647145;2doce Market - Valencia;23/5/2026;35,67;0;0;0;0,3;0;0;0;35,37;0,3;35,67;5.00%;5.00%;1,78;1,78;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2016684626;2doce Market - Valencia;23/5/2026;13,16;0;0;0;0;0;0;0;13,16;0;13,16;5.00%;5.00%;0,66;0,66;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2016671162;2docemarket;23/5/2026;26,69;0;0;0;5,4;0;0;0;21,29;5,4;26,69;5.00%;5.00%;1,33;1,33;21,29;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016686521;Dos Doce Bistro;23/5/2026;5,99;0;0;0;0;0;0;0;5,99;0;5,99;5.00%;15.00%;0,3;0,9;5,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016727677;2doce Market - Valencia;23/5/2026;13,23;0;0;0;1,32;0;0;0;11,91;1,32;13,23;5.00%;5.00%;0,66;0,66;11,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016780671;2docemarket;23/5/2026;15,5;0;0;0;0;0;0;0;15,5;0;15,5;5.00%;5.00%;0,78;0,78;15,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2016845957;2docemarket;23/5/2026;44,55;0;0;0;4,5;0;0;0;40,05;4,5;44,55;5.00%;5.00%;2,23;2,23;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2016883842;2docemarket;23/5/2026;17,3;0;0;0;0;0;0;0;17,3;0;17,3;5.00%;5.00%;0,87;0,87;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2017078215;2docemarket;23/5/2026;24,02;0;0;0;4,86;0;0;0;19,16;4,86;24,02;5.00%;5.00%;1,2;1,2;19,16;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017079164;2docemarket;23/5/2026;21,21;0;0;0;18,28;0;0;0;0,01;21,2;21,21;5.00%;5.00%;1,06;1,06;0,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017151407;2docemarket;23/5/2026;20;0;0;0;0;0;0;0;20;0;20;5.00%;5.00%;1;1;20;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017153778;2docemarket;23/5/2026;30,99;0;0;0;0,88;0;0;0;30,09;0,9;30,99;5.00%;5.00%;1,55;1,55;30,09;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017209350;2docemarket;23/5/2026;36;0;0;0;3,6;0;0;0;32,4;3,6;36;5.00%;5.00%;1,8;1,8;32,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017235362;2docemarket;23/5/2026;14,62;0;0;0;1,54;0;0;0;13,08;1,54;14,62;5.00%;5.00%;0,73;0,73;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2017237910;2docemarket;23/5/2026;2,8;0;0;0;0;0;0;0;2,8;0;2,8;5.00%;5.00%;0,14;0,14;2,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017238435;2docemarket;23/5/2026;10,79;0;0;0;0;0;0;0;10,79;0;10,79;5.00%;5.00%;0,54;0,54;10,79;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017253617;2docemarket;23/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017239653;2docemarket;23/5/2026;3,2;0;0;0;0;0;0;0;3,2;0;3,2;5.00%;5.00%;0,16;0,16;3,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017239739;2docemarket;23/5/2026;11,59;0;0;0;0;0;0;0;11,59;0;11,59;5.00%;5.00%;0,58;0,58;11,59;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017315954;2docemarket;23/5/2026;13;0;0;0;0;0;0;0;13;0;13;5.00%;5.00%;0,65;0,65;13;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017335383;2docemarket;23/5/2026;21,22;0;0;0;0,9;0;0;0;20,32;0,9;21,22;5.00%;5.00%;1,06;1,06;20,32;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017371813;2docemarket;23/5/2026;31,7;0;0;0;3,28;0;0;0;27,97;3,73;31,7;5.00%;5.00%;1,59;1,59;27,97;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017438306;2docemarket - 24hrs;23/5/2026;8,4;0;0;0;0,37;0;0;-0,7;8,03;0,37;9,1;5.00%;0.00%;0,46;0;8,73;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017438626;2docemarket - 24hrs;23/5/2026;15,4;0;0;0;0;0;0;-0,7;15,4;0;16,1;5.00%;0.00%;0,81;0;16,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017446874;2docemarket - 24hrs;23/5/2026;1,5;0;0;0;0;0;0;-0,7;1,5;0;2,2;5.00%;0.00%;0,11;0;2,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017439869;2docemarket - 24hrs;23/5/2026;24,18;0;0;0;0;0;0;-0,52;24,18;0;24,7;5.00%;0.00%;1,24;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2017440337;2docemarket - 24hrs;23/5/2026;40;0;0;0;0;0;0;-0,5;40;0;40,5;5.00%;0.00%;2,03;0;40,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017440595;2docemarket - 24hrs;23/5/2026;17,46;0;0;0;0;0;0;-0,7;17,46;0;18,16;5.00%;0.00%;0,91;0;18,16;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017447878;2docemarket - 24hrs;23/5/2026;35,97;0;0;0;0;0;0;-0,7;35,97;0;36,67;5.00%;0.00%;1,83;0;36,67;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017448668;2docemarket - 24hrs;23/5/2026;8,97;0;0;0;0;0;0;-0,7;8,97;0;9,67;5.00%;0.00%;0,48;0;9,67;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017449490;2docemarket - 24hrs;23/5/2026;3,3;0;0;0;0;0;0;-0,7;3,3;0;4;5.00%;0.00%;0,2;0;4;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017515265;2docemarket - 24hrs;24/5/2026;19,2;0;0;0;17,24;0;0;0;0;20;20;5.00%;0.00%;1;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017515296;2docemarket - 24hrs;24/5/2026;3,5;0;0;0;0;0;0;-0,52;3,5;0;4,02;5.00%;0.00%;0,2;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2017515433;2docemarket - 24hrs;24/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017508272;2docemarket - 24hrs;24/5/2026;1,8;0;0;0;0;0;0;-1;1,8;0;2,8;5.00%;0.00%;0,14;0;2,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017508703;2docemarket - 24hrs;24/5/2026;15,54;0;0;0;0;0;0;-0,7;15,54;0;16,24;5.00%;0.00%;0,81;0;16,24;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017508906;2docemarket - 24hrs;24/5/2026;8,51;0;0;0;0;0;0;-0,5;8,51;0;9,01;5.00%;0.00%;0,45;0;9,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017508935;2docemarket - 24hrs;24/5/2026;41,9;0;0;0;0;0;0;-0,7;41,9;0;42,6;5.00%;0.00%;2,13;0;42,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509004;2docemarket - 24hrs;24/5/2026;7,43;0;0;0;2,26;0;0;0;5,31;2,62;7,93;5.00%;0.00%;0,4;0;5,31;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509497;2docemarket - 24hrs;24/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509599;2docemarket - 24hrs;24/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509618;2docemarket - 24hrs;24/5/2026;10,5;0;0;0;0;0;0;-0,7;10,5;0;11,2;5.00%;0.00%;0,56;0;11,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509625;2docemarket - 24hrs;24/5/2026;13,5;0;0;0;0,09;0;0;-0,6;13,5;0,1;14,2;5.00%;0.00%;0,71;0;14,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509627;2docemarket - 24hrs;24/5/2026;9,67;0;0;0;0,14;0;0;-0,54;9,67;0,16;10,37;5.00%;0.00%;0,52;0;10,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017517000;2docemarket - 24hrs;24/5/2026;22,1;0;0;0;0;0;0;-0,52;22,1;0;22,62;5.00%;0.00%;1,13;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2017517002;2docemarket - 24hrs;24/5/2026;20,02;0;0;0;0;0;0;-0,5;20,02;0;20,52;5.00%;0.00%;1,03;0;20,52;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2017509880;2docemarket;24/5/2026;17,6;0;0;0;0;0;0;0;17,6;0;17,6;5.00%;5.00%;0,88;0,88;17,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017509986;2docemarket;24/5/2026;20,1;0;0;0;0;0;0;0;20,1;0;20,1;5.00%;5.00%;1,01;1,01;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2017519141;2docemarket;24/5/2026;29,95;0;0;0;0;0;0;0;29,95;0;29,95;5.00%;5.00%;1,5;1,5;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2017522102;2docemarket;24/5/2026;12,78;0;0;0;0;0;0;0;12,78;0;12,78;5.00%;5.00%;0,64;0,64;12,78;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017645501;2docemarket;24/5/2026;7,01;0;0;0;0;0;0;0;7,01;0;7,01;5.00%;5.00%;0,35;0,35;7,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017649036;2doce Market - Valencia;24/5/2026;3,62;0;0;0;0;0;0;0;3,62;0;3,62;5.00%;5.00%;0,18;0,18;3,62;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017700885;2doce Market - Valencia;24/5/2026;14,96;0;0;0;0;0;0;0;14,96;0;14,96;5.00%;5.00%;0,75;0,75;14,96;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017739711;2doce Market - Valencia;24/5/2026;100,86;0;0;0;0;0;0;0;100,86;0;100,86;5.00%;5.00%;5,04;5,04;100,86;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017703342;2doce Market - Valencia;24/5/2026;33,84;0;0;0;0;0;0;0;33,84;0;33,84;5.00%;5.00%;1,69;1,69;33,84;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017766505;2docemarket;24/5/2026;18,51;0;0;0;0;0;0;0;18,51;0;18,51;5.00%;5.00%;0,93;0,93;18,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017826352;2docemarket;24/5/2026;8,2;0;0;0;0,22;0;0;0;7,94;0,26;8,2;5.00%;5.00%;0,41;0,41;7,94;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2017835217;2doce Market - Valencia;24/5/2026;8,15;0;0;0;0;0;0;0;8,15;0;8,15;5.00%;5.00%;0,41;0,41;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2018050057;2docemarket;24/5/2026;8,2;0;0;0;0;0;0;0;8,2;0;8,2;5.00%;5.00%;0,41;0,41;8,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018129408;2docemarket;24/5/2026;31,86;0;0;0;0;0;0;0;31,86;0;31,86;5.00%;5.00%;1,59;1,59;31,86;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018171758;2docemarket;24/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018182713;2doce Market - Valencia;24/5/2026;58,38;0;0;0;0;0;0;0;58,38;0;58,38;5.00%;5.00%;2,92;2,92;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2018270982;2docemarket;24/5/2026;12;0;0;0;1,63;0;0;0;10,11;1,89;12;5.00%;5.00%;0,6;0,6;10,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018263596;2docemarket;24/5/2026;8,24;0;0;0;0;0;0;0;8,24;0;8,24;5.00%;5.00%;0,41;0,41;8,24;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018303068;2doce Market - Valencia;24/5/2026;6,62;0;0;0;0;0;0;0;6,62;0;6,62;5.00%;5.00%;0,33;0,33;6,62;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018349924;2docemarket;24/5/2026;20;0;0;0;0;0;0;0;20;0;20;5.00%;5.00%;1;1;20;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018402282;2docemarket;24/5/2026;17,8;0;0;0;0;0;0;0;17,8;0;17,8;5.00%;5.00%;0,89;0,89;17,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018655560;2docemarket;24/5/2026;11,77;0;0;0;0;0;0;0;11,77;0;11,77;5.00%;5.00%;0,59;0,59;11,77;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018715173;2docemarket;24/5/2026;10,78;0;0;0;0;0;0;0;10,78;0;10,78;5.00%;5.00%;0,54;0,54;10,78;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018717085;2docemarket;24/5/2026;18,25;0;0;0;4,41;0;0;0;13,13;5,12;18,25;5.00%;5.00%;0,91;0,91;13,13;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018762433;2docemarket;24/5/2026;37,17;0;0;0;0;0;0;0;37,17;0;37,17;5.00%;5.00%;1,86;1,86;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2018765405;2docemarket;24/5/2026;8,51;0;0;0;0;0;0;0;8,51;0;8,51;5.00%;5.00%;0,43;0,43;8,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018767308;2docemarket;24/5/2026;3,5;0;0;0;0;0;0;0;3,5;0;3,5;5.00%;5.00%;0,18;0,18;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2018773164;2docemarket;24/5/2026;12,2;0;0;0;0;0;0;0;12,2;0;12,2;5.00%;5.00%;0,61;0,61;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2018775234;2docemarket;24/5/2026;24,02;0;0;0;0;0;0;0;24,02;0;24,02;5.00%;5.00%;1,2;1,2;24,02;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018862093;2docemarket - 24hrs;24/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018862136;2docemarket - 24hrs;24/5/2026;6,99;0;0;0;0;0;0;-0,9;6,99;0;7,89;5.00%;0.00%;0,39;0;7,89;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018899797;2docemarket - 24hrs;24/5/2026;4,7;0;0;0;0;0;0;-0,4;4,7;0;5,1;5.00%;0.00%;0,26;0;5,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018863486;2docemarket - 24hrs;24/5/2026;4,34;0;0;0;0;0;0;-0,7;4,34;0;5,04;5.00%;0.00%;0,25;0;5,04;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018863522;2docemarket - 24hrs;24/5/2026;3,8;0;0;0;0;0;0;-0,5;3,8;0;4,3;5.00%;0.00%;0,22;0;4,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018864189;2docemarket - 24hrs;24/5/2026;3,21;0;0;0;0;0;0;-0,7;3,21;0;3,91;5.00%;0.00%;0,2;0;3,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018902314;2docemarket - 24hrs;24/5/2026;8;0;0;0;0;0;0;-0,85;8;0;8,85;5.00%;0.00%;0,44;0;8,85;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018903006;2docemarket - 24hrs;24/5/2026;4,92;0;0;0;0;0;0;-0,7;4,92;0;5,62;5.00%;0.00%;0,28;0;5,62;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018903646;2docemarket - 24hrs;24/5/2026;3,38;0;0;0;0;0;0;-0,7;3,38;0;4,08;5.00%;0.00%;0,2;0;4,08;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2010990205;Cafein - Las Mercedes;18/5/2026;25;0;5;0;0;0;7,5;0;20;0;12,5;5.00%;20.00%;0,63;2,5;0;0;Si;Pago en la aplicación;PedidosYa;Retiro en el local
+2011489135;Cafein - Las Mercedes;19/5/2026;7;0;0;0;0;0;0;0;7;0;7;5.00%;20.00%;0,35;1,4;0;0;No;Pago en la aplicación;PedidosYa;Retiro en el local
+DEL_2018931782;2docemarket - 24hrs;25/5/2026;7,34;0;0;0;3,26;0;0;0;4,06;3,78;7,84;5.00%;0.00%;0,39;0;4,06;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2018905684;2docemarket - 24hrs;25/5/2026;10,84;0;0;0;0;0;0;-0,7;10,84;0;11,54;5.00%;0.00%;0,58;0;11,54;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2018931912;2docemarket - 24hrs;25/5/2026;4,8;0;0;0;0;0;0;-0,7;4,8;0;5,5;5.00%;0.00%;0,28;0;5,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2018931922;2docemarket - 24hrs;25/5/2026;9,45;0;0;0;0;0;0;-0,5;9,45;0;9,95;5.00%;0.00%;0,5;0;9,95;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2018905717;2docemarket - 24hrs;25/5/2026;40;0;0;0;0;0;0;-0,7;40;0;40,7;5.00%;0.00%;2,04;0;40,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2018986361;2docemarket - 24hrs;25/5/2026;4,5;0;0;0;0;0;0;-0,7;4,5;0;5,2;5.00%;0.00%;0,26;0;5,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2018995280;2docemarket;25/5/2026;4,1;0;0;0;0;0;0;0;4,1;0;4,1;5.00%;5.00%;0,21;0,21;4,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2018988927;2docemarket;25/5/2026;10,68;0;0;0;0;0;0;0;10,68;0;10,68;5.00%;5.00%;0,53;0,53;10,68;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019061657;2docemarket;25/5/2026;7,3;0;0;0;0;0;0;0;7,3;0;7,3;5.00%;5.00%;0,37;0,37;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+DEL_2019237689;2docemarket;25/5/2026;11,51;0;0;0;0;0;0;0;11,51;0;11,51;5.00%;5.00%;0,58;0,58;11,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019429679;2doce Market - Valencia;25/5/2026;19,21;0;0;0;0;0;0;0;19,21;0;19,21;5.00%;5.00%;0,96;0,96;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+DEL_2019468500;2docemarket;25/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019473721;2doce Market - Valencia;25/5/2026;11,14;0;0;0;0;0;0;0;11,14;0;11,14;5.00%;5.00%;0,56;0,56;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+DEL_2019514344;2docemarket;25/5/2026;14;0;0;0;0;0;0;0;14;0;14;5.00%;5.00%;0,7;0,7;14;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019508704;2docemarket;25/5/2026;15,06;0;0;0;0;0;0;0;15,06;0;15,06;5.00%;5.00%;0,75;0,75;15,06;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019625822;2docemarket;25/5/2026;35,91;0;0;0;0;0;0;0;35,91;0;35,91;5.00%;5.00%;1,8;1,8;35,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019660733;2docemarket;25/5/2026;8,98;0;0;0;0;0;0;0;8,98;0;8,98;5.00%;5.00%;0,45;0,45;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+DEL_2019866550;2docemarket;25/5/2026;8,16;0;0;0;0;0;0;0;8,16;0;8,16;5.00%;5.00%;0,41;0,41;8,16;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019954686;2docemarket;25/5/2026;15,5;0;0;0;0;0;0;0;15,5;0;15,5;5.00%;5.00%;0,78;0,78;15,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2019948131;2docemarket;25/5/2026;6,01;0;0;0;0;0;0;0;6,01;0;6,01;5.00%;5.00%;0,3;0,3;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+DEL_2019952463;2docemarket;25/5/2026;15,05;0;0;0;0;0;0;0;15,05;0;15,05;5.00%;5.00%;0,75;0,75;15,05;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2020003787;2docemarket;25/5/2026;11,2;0;0;0;0;0;0;0;11,2;0;11,2;5.00%;5.00%;0,56;0,56;11,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2020004196;2docemarket;25/5/2026;42,75;0;0;0;0;0;0;0;42,75;0;42,75;5.00%;5.00%;2,14;2,14;42,75;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2020067640;2docemarket - 24hrs;25/5/2026;5,28;0;0;0;0;0;0;-0,7;5,28;0;5,98;5.00%;0.00%;0,3;0;5,98;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020060872;2docemarket - 24hrs;25/5/2026;4,2;0;0;0;0;0;0;-0,72;4,2;0;4,92;5.00%;0.00%;0,25;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+DEL_2020061214;2docemarket - 24hrs;25/5/2026;7,6;0;0;0;0;0;0;-0,5;7,6;0;8,1;5.00%;0.00%;0,41;0;8,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020062236;2docemarket - 24hrs;25/5/2026;10,96;0;0;0;0;0;0;-0,7;10,96;0;11,66;5.00%;0.00%;0,58;0;11,66;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020091545;2docemarket - 24hrs;25/5/2026;3,4;0;0;0;0;0;0;-0,4;3,4;0;3,8;5.00%;0.00%;0,19;0;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020062972;2docemarket - 24hrs;25/5/2026;3,8;0;0;0;0;0;0;-0,7;3,8;0;4,5;5.00%;0.00%;0,23;0;4,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020063870;2docemarket - 24hrs;25/5/2026;5,41;0;0;0;0;0;0;-0,7;5,41;0;6,11;5.00%;0.00%;0,31;0;6,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020106910;2docemarket - 24hrs;25/5/2026;11,23;0;0;0;0;0;0;-0,7;11,23;0;11,93;5.00%;0.00%;0,6;0;11,93;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020063870;2docemarket - 24hrs;25/5/2026;5,41;0;0;0;0;0;0;-0,7;5,41;0;6,11;5.00%;0.00%;0,31;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020062972;2docemarket - 24hrs;25/5/2026;3,8;0;0;0;0;0;0;-0,7;3,8;0;4,5;5.00%;0.00%;0,23;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020062236;2docemarket - 24hrs;25/5/2026;10,96;0;0;0;0;0;0;-0,7;10,96;0;11,66;5.00%;0.00%;0,58;0;11,66;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020060872;2docemarket - 24hrs;25/5/2026;4,2;0;0;0;0;0;0;-0,72;4,2;0;4,92;5.00%;0.00%;0,25;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2020106910;2docemarket - 24hrs;25/5/2026;11,23;0;0;0;0;0;0;-0,7;11,23;0;11,93;5.00%;0.00%;0,6;0;11,93;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020091545;2docemarket - 24hrs;25/5/2026;3,4;0;0;0;0;0;0;-0,4;3,4;0;3,8;5.00%;0.00%;0,19;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020067640;2docemarket - 24hrs;25/5/2026;5,28;0;0;0;0;0;0;-0,7;5,28;0;5,98;5.00%;0.00%;0,3;0;5,98;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2019948131;2docemarket;25/5/2026;6,01;0;0;0;0;0;0;0;6,01;0;6,01;5.00%;5.00%;0,3;0,3;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2020003787;2docemarket;25/5/2026;11,2;0;0;0;0;0;0;0;11,2;0;11,2;5.00%;5.00%;0,56;0,56;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020004196;2docemarket;25/5/2026;42,75;0;0;0;0;0;0;0;42,75;0;42,75;5.00%;5.00%;2,14;2,14;42,75;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019954686;2docemarket;25/5/2026;15,5;0;0;0;0;0;0;0;15,5;0;15,5;5.00%;5.00%;0,78;0,78;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020061214;2docemarket - 24hrs;25/5/2026;7,6;0;0;0;0;0;0;-0,5;7,6;0;8,1;5.00%;0.00%;0,41;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2019866550;2docemarket;25/5/2026;8,16;0;0;0;0;0;0;0;8,16;0;8,16;5.00%;5.00%;0,41;0,41;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019952463;2docemarket;25/5/2026;15,05;0;0;0;0;0;0;0;15,05;0;15,05;5.00%;5.00%;0,75;0,75;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019660733;2docemarket;25/5/2026;8,98;0;0;0;0;0;0;0;8,98;0;8,98;5.00%;5.00%;0,45;0,45;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2019625822;2docemarket;25/5/2026;35,91;0;0;0;0;0;0;0;35,91;0;35,91;5.00%;5.00%;1,8;1,8;35,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019508704;2docemarket;25/5/2026;15,06;0;0;0;0;0;0;0;15,06;0;15,06;5.00%;5.00%;0,75;0,75;15,06;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019514344;2docemarket;25/5/2026;14;0;0;0;0;0;0;0;14;0;14;5.00%;5.00%;0,7;0,7;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019468500;2docemarket;25/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019429679;2doce Market - Valencia;25/5/2026;19,21;0;0;0;0;0;0;0;19,21;0;19,21;5.00%;5.00%;0,96;0,96;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2019473721;2doce Market - Valencia;25/5/2026;11,14;0;0;0;0;0;0;0;11,14;0;11,14;5.00%;5.00%;0,56;0,56;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2019237689;2docemarket;25/5/2026;11,51;0;0;0;0;0;0;0;11,51;0;11,51;5.00%;5.00%;0,58;0,58;11,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2019061657;2docemarket;25/5/2026;7,3;0;0;0;0;0;0;0;7,3;0;7,3;5.00%;5.00%;0,37;0,37;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2018986361;2docemarket - 24hrs;25/5/2026;4,5;0;0;0;0;0;0;-0,7;4,5;0;5,2;5.00%;0.00%;0,26;0;5,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018905717;2docemarket - 24hrs;25/5/2026;40;0;0;0;0;0;0;-0,7;40;0;40,7;5.00%;0.00%;2,04;0;40,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018931922;2docemarket - 24hrs;25/5/2026;9,45;0;0;0;0;0;0;-0,5;9,45;0;9,95;5.00%;0.00%;0,5;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018995280;2docemarket;25/5/2026;4,1;0;0;0;0;0;0;0;4,1;0;4,1;5.00%;5.00%;0,21;0,21;4,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018988927;2docemarket;25/5/2026;10,68;0;0;0;0;0;0;0;10,68;0;10,68;5.00%;5.00%;0,53;0,53;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2018931782;2docemarket - 24hrs;25/5/2026;7,34;0;0;0;3,26;0;0;0;4,06;3,78;7,84;5.00%;0.00%;0,39;0;4,06;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018905684;2docemarket - 24hrs;25/5/2026;10,84;0;0;0;0;0;0;-0,7;10,84;0;11,54;5.00%;0.00%;0,58;0;11,54;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2018931912;2docemarket - 24hrs;25/5/2026;4,8;0;0;0;0;0;0;-0,7;4,8;0;5,5;5.00%;0.00%;0,28;0;5,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020094905;2docemarket - 24hrs;26/5/2026;3,54;0;0;0;0;0;0;-0,5;3,54;0;4,04;5.00%;0.00%;0,2;0;4,04;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020107650;2docemarket - 24hrs;26/5/2026;4,1;0;0;0;0;0;0;-0,5;4,1;0;4,6;5.00%;0.00%;0,23;0;4,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020095580;2docemarket - 24hrs;26/5/2026;5,34;0;0;0;0;0;0;-0,5;5,34;0;5,84;5.00%;0.00%;0,29;0;5,84;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020108141;2docemarket - 24hrs;26/5/2026;1,2;0;0;0;0;0;0;-0,5;1,2;0;1,7;5.00%;0.00%;0,09;0;1,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020154351;2docemarket - 24hrs;26/5/2026;8;0;0;0;0;0;0;-0,5;8;0;8,5;5.00%;0.00%;0,43;0;8,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2020205917;2docemarket;26/5/2026;49,21;0;0;0;0;0;0;0;49,21;0;49,21;5.00%;5.00%;2,46;2,46;49,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2020248456;2doce Market - Valencia;26/5/2026;3,89;0;0;0;0;0;0;0;3,89;0;3,89;5.00%;5.00%;0,19;0,19;3,89;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+DEL_2020250342;2docemarket;26/5/2026;10,48;0;0;0;0;0;0;0;10,48;0;10,48;5.00%;5.00%;0,52;0,52;10,48;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020620060;2docemarket;26/5/2026;10;0;0;0;0;0;0;0;10;0;10;5.00%;5.00%;0,5;0,5;10;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020635392;2docemarket;26/5/2026;10;0;0;0;0;0;0;0;10;0;10;5.00%;5.00%;0,5;0,5;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020250342;2docemarket;26/5/2026;10,48;0;0;0;0;0;0;0;10,48;0;10,48;5.00%;5.00%;0,52;0,52;10,48;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020248456;2doce Market - Valencia;26/5/2026;3,89;0;0;0;0;0;0;0;3,89;0;3,89;5.00%;5.00%;0,19;0,19;3,89;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020205917;2docemarket;26/5/2026;49,21;0;0;0;0;0;0;0;49,21;0;49,21;5.00%;5.00%;2,46;2,46;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020108141;2docemarket - 24hrs;26/5/2026;1,2;0;0;0;0;0;0;-0,5;1,2;0;1,7;5.00%;0.00%;0,09;0;1,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020154351;2docemarket - 24hrs;26/5/2026;8;0;0;0;0;0;0;-0,5;8;0;8,5;5.00%;0.00%;0,43;0;8,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020107650;2docemarket - 24hrs;26/5/2026;4,1;0;0;0;0;0;0;-0,5;4,1;0;4,6;5.00%;0.00%;0,23;0;4,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020094905;2docemarket - 24hrs;26/5/2026;3,54;0;0;0;0;0;0;-0,5;3,54;0;4,04;5.00%;0.00%;0,2;0;4,04;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2020095580;2docemarket - 24hrs;26/5/2026;5,34;0;0;0;0;0;0;-0,5;5,34;0;5,84;5.00%;0.00%;0,29;0;5,84;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021117690;2docemarket - 24hrs;26/5/2026;18,6;0;0;0;0,28;0;0;-0,37;18,6;0,33;19,3;5.00%;0.00%;0,97;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021124578;2docemarket - 24hrs;26/5/2026;29,07;0;0;0;0;0;0;-0,7;29,07;0;29,77;5.00%;0.00%;1,49;0;29,77;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021125305;2docemarket - 24hrs;26/5/2026;16;0;0;0;0;0;0;-0,4;16;0;16,4;5.00%;0.00%;0,82;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021086456;2docemarket - 24hrs;26/5/2026;8,06;0;0;0;0;0;0;-0,41;8,06;0;8,47;5.00%;0.00%;0,42;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2020879419;2docemarket;26/5/2026;8,01;0;0;0;0;0;0;0;8,01;0;8,01;5.00%;5.00%;0,4;0,4;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2021016679;2docemarket;26/5/2026;10,44;0;0;0;0;0;0;0;10,44;0;10,44;5.00%;5.00%;0,52;0,52;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2020958962;2docemarket;26/5/2026;4;0;0;0;0;0;0;0;4;0;4;5.00%;5.00%;0,2;0,2;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020775343;2docemarket;26/5/2026;15,55;0;0;0;0;0;0;0;15,55;0;15,55;5.00%;5.00%;0,78;0,78;15,55;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020852600;2docemarket;26/5/2026;5,74;0;0;0;0;0;0;0;5,74;0;5,74;5.00%;5.00%;0,29;0,29;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2020748564;2docemarket;26/5/2026;29,36;0;0;0;0;0;0;0;29,36;0;29,36;5.00%;5.00%;1,47;1,47;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2020684975;2docemarket;26/5/2026;4,44;0;0;0;0;0;0;0;4,44;0;4,44;5.00%;5.00%;0,22;0,22;4,44;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021665405;2doce Market - Valencia;27/5/2026;7,2;0;0;0;0;0;0;0;7,2;0;7,2;5.00%;5.00%;0,36;0,36;7,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021665583;2docemarket;27/5/2026;14,2;0;0;0;0;0;0;0;14,2;0;14,2;5.00%;5.00%;0,71;0,71;14,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021556800;2docemarket;27/5/2026;6,41;0;0;0;4,05;0;0;0;1,71;4,7;6,41;5.00%;5.00%;0,32;0,32;1,71;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021563554;2docemarket;27/5/2026;15,24;0;0;0;0;0;0;0;15,24;0;15,24;5.00%;5.00%;0,76;0,76;15,24;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021477224;2docemarket;27/5/2026;9,31;0;0;0;0;0;0;0;9,31;0;9,31;5.00%;5.00%;0,47;0,47;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021374336;2docemarket;27/5/2026;3,6;0;0;0;0;0;0;0;3,6;0;3,6;5.00%;5.00%;0,18;0,18;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021328423;2doce Market - Valencia;27/5/2026;17,74;0;0;0;0;0;0;0;17,74;0;17,74;5.00%;5.00%;0,89;0,89;17,74;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021119083;2docemarket - 24hrs;27/5/2026;19,03;0;0;0;0;0;0;-0,5;19,03;0;19,53;5.00%;0.00%;0,98;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021126958;2docemarket - 24hrs;27/5/2026;7,2;0;0;0;0;0;0;-0,7;7,2;0;7,9;5.00%;0.00%;0,4;0;7,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021266170;2doce Market - Valencia;27/5/2026;47,88;0;0;0;0;0;0;0;47,88;0;47,88;5.00%;5.00%;2,39;2,39;47,88;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021118311;2docemarket - 24hrs;27/5/2026;10;0;0;0;0;0;0;-1;10;0;11;5.00%;0.00%;0,55;0;11;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021118290;2docemarket - 24hrs;27/5/2026;4,7;0;0;0;0,92;0;0;0;4,63;1,07;5,7;5.00%;0.00%;0,29;0;4,63;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021127305;2docemarket - 24hrs;27/5/2026;16,78;0;0;0;0;0;0;-0,5;16,78;0;17,28;5.00%;0.00%;0,86;0;17,28;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021126685;2docemarket - 24hrs;27/5/2026;10,5;0;0;0;0;0;0;-0,5;10,5;0;11;5.00%;0.00%;0,55;0;11;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021127328;2docemarket - 24hrs;27/5/2026;8,89;0;0;0;0;0;0;-0,5;8,89;0;9,39;5.00%;0.00%;0,47;0;9,39;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022191047;2docemarket - 24hrs;27/5/2026;6,92;0;0;0;0;0;0;-0,5;6,92;0;7,42;5.00%;0.00%;0,37;0;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022234745;2docemarket - 24hrs;27/5/2026;11,83;0;0;0;0;0;0;-0,5;11,83;0;12,33;5.00%;0.00%;0,62;0;12,33;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022218899;2docemarket - 24hrs;27/5/2026;17,19;0;0;0;0;0;0;-0,52;17,19;0;17,71;5.00%;0.00%;0,89;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2022184665;2docemarket - 24hrs;27/5/2026;11,4;0;0;0;0;0;0;-0,52;11,4;0;11,92;5.00%;0.00%;0,6;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2022193476;2docemarket - 24hrs;27/5/2026;6,65;0;0;0;0,09;0;0;-0,6;6,65;0,1;7,35;5.00%;0.00%;0,37;0;7,25;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022194133;2docemarket - 24hrs;27/5/2026;4,1;0;0;0;0;0;0;-0,7;4,1;0;4,8;5.00%;0.00%;0,24;0;4,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022188730;2docemarket - 24hrs;27/5/2026;7;0;0;0;0;0;0;-0,7;7;0;7,7;5.00%;0.00%;0,39;0;7,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2021922277;2docemarket;27/5/2026;16,6;0;0;0;0;0;0;0;16,6;0;16,6;5.00%;5.00%;0,83;0,83;16,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021916449;2docemarket;27/5/2026;16,85;0;0;0;0;0;0;0;16,85;0;16,85;5.00%;5.00%;0,84;0,84;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2021761363;2docemarket;27/5/2026;6,5;0;0;0;0;0;0;0;6,5;0;6,5;5.00%;5.00%;0,33;0,33;0;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2021758147;2docemarket;27/5/2026;55,59;0;0;0;0;0;0;0;55,59;0;55,59;5.00%;5.00%;2,78;2,78;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2022566995;2doce Market - Valencia;28/5/2026;3,62;0;0;0;0;0;0;0;3,62;0;3,62;5.00%;5.00%;0,18;0,18;3,62;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2022666451;2doce Market - Valencia;28/5/2026;11,57;0;0;0;0;0;0;0;11,57;0;11,57;5.00%;5.00%;0,58;0,58;11,57;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2022808321;2docemarket;28/5/2026;8;0;0;0;0;0;0;0;8;0;8;5.00%;5.00%;0,4;0,4;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2022809067;2docemarket;28/5/2026;10,71;0;0;0;0;0;0;0;10,71;0;10,71;5.00%;5.00%;0,54;0,54;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2022929910;2docemarket;28/5/2026;22,06;0;0;0;0;0;0;0;22,06;0;22,06;5.00%;5.00%;1,1;1,1;22,06;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2022930284;2docemarket;28/5/2026;4,71;0;0;0;0;0;0;0;4,71;0;4,71;5.00%;5.00%;0,24;0,24;4,71;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023051141;2docemarket;28/5/2026;44,55;0;0;0;0;0;0;0;44,55;0;44,55;5.00%;5.00%;2,23;2,23;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2023045500;2docemarket;28/5/2026;8,21;0;0;0;0;0;0;0;8,21;0;8,21;5.00%;5.00%;0,41;0,41;8,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023054272;2docemarket;28/5/2026;33,62;0;0;0;0;0;0;0;33,62;0;33,62;5.00%;5.00%;1,68;1,68;33,62;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023106682;2docemarket;28/5/2026;3,42;0;0;0;0;0;0;0;3,42;0;3,42;5.00%;5.00%;0,17;0,17;3,42;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023110031;2docemarket;28/5/2026;35,19;0;0;0;0;0;0;0;35,19;0;35,19;5.00%;5.00%;1,76;1,76;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2023121584;2docemarket;28/5/2026;23,21;0;0;0;0;0;0;0;23,21;0;23,21;5.00%;5.00%;1,16;1,16;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2023186167;2docemarket;28/5/2026;31,23;0;0;0;0;0;0;0;31,23;0;31,23;5.00%;5.00%;1,56;1,56;31,23;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023244257;2docemarket;28/5/2026;6,04;0;0;0;0;0;0;0;6,04;0;6,04;5.00%;5.00%;0,3;0,3;6,04;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023317940;2docemarket;28/5/2026;31,64;0;0;0;0;0;0;0;31,64;0;31,64;5.00%;5.00%;1,58;1,58;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2023434098;2docemarket - 24hrs;28/5/2026;6,35;0;0;0;0;0;0;-0,7;6,35;0;7,05;5.00%;0.00%;0,35;0;7,05;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023474626;2docemarket - 24hrs;28/5/2026;16,25;0;0;0;0;0;0;-0,5;16,25;0;16,75;5.00%;0.00%;0,84;0;16,75;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023475506;2docemarket - 24hrs;28/5/2026;1,6;0;0;0;0;0;0;-0,4;1,6;0;2;5.00%;0.00%;0,1;0;2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023468090;2docemarket - 24hrs;28/5/2026;3,6;0;0;0;0;0;0;-0,5;3,6;0;4,1;5.00%;0.00%;0,21;0;4,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023471018;2docemarket - 24hrs;28/5/2026;28,02;0;0;0;0;0;0;-0,7;28,02;0;28,72;5.00%;0.00%;1,44;0;28,72;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023517490;2docemarket - 24hrs;28/5/2026;6,53;0;0;0;0;0;0;-0,7;6,53;0;7,23;5.00%;0.00%;0,36;0;7,23;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022235850;2docemarket - 24hrs;28/5/2026;8,84;0;0;0;0;0;0;-0,7;8,84;0;9,54;5.00%;0.00%;0,48;0;9,54;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022220557;2docemarket - 24hrs;28/5/2026;6,15;0;0;0;0;0;0;-0,7;6,15;0;6,85;5.00%;0.00%;0,34;0;6,85;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022235791;2docemarket - 24hrs;28/5/2026;12,71;0;0;0;0;0;0;-0,7;12,71;0;13,41;5.00%;0.00%;0,67;0;13,41;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022220299;2docemarket - 24hrs;28/5/2026;2,68;0;0;0;0;0;0;-0,7;2,68;0;3,38;5.00%;0.00%;0,17;0;3,38;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2022220570;2docemarket - 24hrs;28/5/2026;3,6;0;0;0;0;0;0;-0,7;3,6;0;4,3;5.00%;0.00%;0,22;0;4,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023571377;2docemarket - 24hrs;29/5/2026;25,85;0;0;0;0;0;0;-0,72;25,85;0;26,57;5.00%;0.00%;1,33;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2023571411;2docemarket - 24hrs;29/5/2026;16,28;0;0;0;0;0;0;-0,41;16,28;0;16,69;5.00%;0.00%;0,83;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2023519863;2docemarket - 24hrs;29/5/2026;30,1;0;0;0;0;0;0;-0,7;30,1;0;30,8;5.00%;0.00%;1,54;0;30,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023571715;2docemarket - 24hrs;29/5/2026;8,98;0;0;0;8,19;0;0;0;0,2;9,5;9,7;5.00%;0.00%;0,49;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2023571775;2docemarket - 24hrs;29/5/2026;8,86;0;0;0;0;0;0;-0,7;8,86;0;9,56;5.00%;0.00%;0,48;0;9,56;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023610408;2docemarket - 24hrs;29/5/2026;4,8;0;0;0;0;0;0;-0,7;4,8;0;5,5;5.00%;0.00%;0,28;0;5,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023572038;2docemarket - 24hrs;29/5/2026;8,2;0;0;0;0;0;0;-0,7;8,2;0;8,9;5.00%;0.00%;0,45;0;8,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2023634536;2docemarket;29/5/2026;4,8;0;0;0;0;0;0;0;4,8;0;4,8;5.00%;5.00%;0,24;0,24;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2023634696;2docemarket;29/5/2026;28,01;0;0;0;0;0;0;0;28,01;0;28,01;5.00%;5.00%;1,4;1,4;28,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023574280;2docemarket;29/5/2026;16,3;0;0;0;0;0;0;0;16,3;0;16,3;5.00%;5.00%;0,82;0,82;16,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023637257;2doce Market - Valencia;29/5/2026;30,7;0;0;0;0;0;0;0;30,7;0;30,7;5.00%;5.00%;1,54;1,54;30,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023577934;2docemarket;29/5/2026;4,7;0;0;0;0;0;0;0;4,7;0;4,7;5.00%;5.00%;0,24;0,24;4,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023691008;2doce Market - Valencia;29/5/2026;9,87;0;0;0;0;0;0;0;9,87;0;9,87;5.00%;5.00%;0,49;0,49;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2023764412;2docemarket;29/5/2026;12,39;0;0;0;0;0;0;0;12,39;0;12,39;5.00%;5.00%;0,62;0,62;12,39;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023797480;2doce Market - Valencia;29/5/2026;12,02;0;0;0;0;0;0;0;12,02;0;12,02;5.00%;5.00%;0,6;0,6;12,02;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023857158;2docemarket;29/5/2026;5,8;0;0;0;0;0;0;0;5,8;0;5,8;5.00%;5.00%;0,29;0,29;5,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2023901768;2docemarket;29/5/2026;53,3;0;0;0;0;0;0;0;53,3;0;53,3;5.00%;5.00%;2,67;2,67;53,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024037558;2doce Market - Valencia;29/5/2026;8,54;0;0;0;0;0;0;0;8,54;0;8,54;5.00%;5.00%;0,43;0,43;8,54;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024117527;2docemarket;29/5/2026;8;0;0;0;0;0;0;0;8;0;8;5.00%;5.00%;0,4;0,4;8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024124861;2docemarket;29/5/2026;28,21;0;0;0;0;0;0;0;28,21;0;28,21;5.00%;5.00%;1,41;1,41;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2024322280;2docemarket;29/5/2026;12,46;0;0;0;0;0;0;0;12,46;0;12,46;5.00%;5.00%;0,62;0,62;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2024339878;2docemarket;29/5/2026;39,47;0;0;0;0,22;0;0;0;39,22;0,25;39,47;5.00%;5.00%;1,97;1,97;39,22;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024355708;2doce Market - Valencia;29/5/2026;8,74;0;0;0;0;0;0;0;8,74;0;8,74;5.00%;5.00%;0,44;0,44;8,74;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024423307;2docemarket;29/5/2026;40,37;0;0;0;0;0;0;0;40,37;0;40,37;5.00%;5.00%;2,02;2,02;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2024457581;2docemarket;29/5/2026;6;0;0;0;0;0;0;0;6;0;6;5.00%;5.00%;0,3;0,3;6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024589936;2docemarket;29/5/2026;51,6;0;0;0;0;0;0;0;51,6;0;51,6;5.00%;5.00%;2,58;2,58;51,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024609634;2docemarket;29/5/2026;28,93;0;0;0;0;0;0;0;28,93;0;28,93;5.00%;5.00%;1,45;1,45;28,93;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024700045;2docemarket;29/5/2026;38,18;0;0;0;0;0;0;0;38,18;0;38,18;5.00%;5.00%;1,91;1,91;38,18;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024733760;2docemarket;29/5/2026;10,59;0;0;0;0;0;0;0;10,59;0;10,59;5.00%;5.00%;0,53;0,53;10,59;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024737116;2docemarket;29/5/2026;16,01;0;0;0;0;0;0;0;16,01;0;16,01;5.00%;5.00%;0,8;0,8;16,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024759258;2docemarket;29/5/2026;17,81;0;0;0;0;0;0;0;17,81;0;17,81;5.00%;5.00%;0,89;0,89;17,81;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024828184;2docemarket;29/5/2026;8,21;0;0;0;0;0;0;0;8,21;0;8,21;5.00%;5.00%;0,41;0,41;8,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024829345;2docemarket;29/5/2026;11,14;0;0;0;0;0;0;0;11,14;0;11,14;5.00%;5.00%;0,56;0,56;11,14;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024830150;2docemarket;29/5/2026;23,93;0;0;0;0;0;0;0;23,93;0;23,93;5.00%;5.00%;1,2;1,2;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2024823992;2docemarket;29/5/2026;5,85;0;0;0;0;0;0;0;5,85;0;5,85;5.00%;5.00%;0,29;0,29;5,85;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2024928381;2docemarket - 24hrs;29/5/2026;41,76;0;0;0;0;0;0;-0,52;41,76;0;42,28;5.00%;0.00%;2,11;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2024937224;2docemarket - 24hrs;29/5/2026;3,5;0;0;0;0;0;0;-0,7;3,5;0;4,2;5.00%;0.00%;0,21;0;4,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024970690;2docemarket - 24hrs;29/5/2026;10;0;0;0;0;0;0;-0,5;10;0;10,5;5.00%;0.00%;0,53;0;10,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024995206;2docemarket - 24hrs;29/5/2026;11,64;0;0;0;0;0;0;-0,5;11,64;0;12,14;5.00%;0.00%;0,61;0;12,14;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024996660;2docemarket - 24hrs;29/5/2026;17,8;0;0;0;0;0;0;-0,7;17,8;0;18,5;5.00%;0.00%;0,93;0;18,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024974297;2docemarket - 24hrs;29/5/2026;14;0;0;0;0;0;0;-0,72;14;0;14,72;5.00%;0.00%;0,74;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2024974363;2docemarket - 24hrs;29/5/2026;3,6;0;0;0;0;0;0;-0,5;3,6;0;4,1;5.00%;0.00%;0,21;0;4,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024974686;2docemarket - 24hrs;29/5/2026;10;0;0;0;0;0;0;-0,5;10;0;10,5;5.00%;0.00%;0,53;0;10,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024998025;2docemarket - 24hrs;29/5/2026;29,47;0;0;0;0;0;0;-0,5;29,47;0;29,97;5.00%;0.00%;1,5;0;29,97;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024976854;2docemarket - 24hrs;29/5/2026;23,21;0;0;0;0;0;0;-0,5;23,21;0;23,71;5.00%;0.00%;1,19;0;23,71;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2024978278;2docemarket - 24hrs;29/5/2026;15,34;0;0;0;0;0;0;-0,9;15,34;0;16,24;5.00%;0.00%;0,81;0;16,24;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025034834;2docemarket - 24hrs;30/5/2026;3,41;0;0;0;0;0;0;-0,7;3,41;0;4,11;5.00%;0.00%;0,21;0;4,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025036391;2docemarket - 24hrs;30/5/2026;16,89;0;0;0;0;0;0;-0,5;16,89;0;17,39;5.00%;0.00%;0,87;0;17,39;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025051602;2docemarket - 24hrs;30/5/2026;7,74;0;0;0;0;0;0;-0,4;7,74;0;8,14;5.00%;0.00%;0,41;0;8,14;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025051753;2docemarket - 24hrs;30/5/2026;4,8;0;0;0;0,09;0;0;-0,3;4,8;0,1;5,2;5.00%;0.00%;0,26;0;5,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025037003;2docemarket - 24hrs;30/5/2026;10,08;0;0;0;0;0;0;-0,7;10,08;0;10,78;5.00%;0.00%;0,54;0;10,78;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025051913;2docemarket - 24hrs;30/5/2026;15,43;0;0;0;0;0;0;-0,7;15,43;0;16,13;5.00%;0.00%;0,81;0;16,13;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025037262;2docemarket - 24hrs;30/5/2026;8,3;0;0;0;0;0;0;-0,5;8,3;0;8,8;5.00%;0.00%;0,44;0;8,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025052094;2docemarket - 24hrs;30/5/2026;11,12;0;0;0;0;0;0;-0,5;11,12;0;11,62;5.00%;0.00%;0,58;0;11,62;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025037218;2docemarket - 24hrs;30/5/2026;8,8;0;0;0;0;0;0;-0,7;8,8;0;9,5;5.00%;0.00%;0,48;0;9,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2025037712;2docemarket;30/5/2026;6;0;0;0;0;0;0;0;6;0;6;5.00%;5.00%;0,3;0,3;6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025052645;2docemarket;30/5/2026;7;0;0;0;0;0;0;0;7;0;7;5.00%;5.00%;0,35;0,35;7;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025038794;2docemarket;30/5/2026;9,6;0;0;0;0;0;0;0;9,6;0;9,6;5.00%;5.00%;0,48;0,48;9,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025197091;2doce Market - Valencia;30/5/2026;10,07;0;0;0;0;0;0;0;10,07;0;10,07;5.00%;5.00%;0,5;0,5;10,07;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025197626;2docemarket;30/5/2026;10,9;0;0;0;0;0;0;0;10,9;0;10,9;5.00%;5.00%;0,55;0,55;10,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025226066;2doce Market - Valencia;30/5/2026;14,19;0;0;0;0;0;0;0;14,19;0;14,19;5.00%;5.00%;0,71;0,71;14,19;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025297436;Dos Doce Bistro;30/5/2026;12;0;0;0;0;0;0;0;12;0;12;5.00%;15.00%;0,6;1,8;12;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025403176;2docemarket;30/5/2026;11,61;0;0;0;0;0;0;0;11,61;0;11,61;5.00%;5.00%;0,58;0,58;11,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025415058;2docemarket;30/5/2026;3,21;0;0;0;0;0;0;0;3,21;0;3,21;5.00%;5.00%;0,16;0,16;3,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025511238;2doce Market - Valencia;30/5/2026;12,27;0;0;0;0;0;0;0;12,27;0;12,27;5.00%;5.00%;0,61;0,61;12,27;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025512549;2docemarket;30/5/2026;22,51;0;0;0;0;0;0;0;22,51;0;22,51;5.00%;5.00%;1,13;1,13;22,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025512955;2doce Market - Valencia;30/5/2026;18,9;0;0;0;7,16;0;0;0;10,6;8,3;18,9;5.00%;5.00%;0,95;0,95;10,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025631583;Dos Doce Bistro;30/5/2026;37,5;0;0;0;0;0;0;0;37,5;0;37,5;5.00%;15.00%;1,88;5,63;37,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025724871;2doce Market - Valencia;30/5/2026;22,14;0;0;0;0;0;0;0;22,14;0;22,14;5.00%;5.00%;1,11;1,11;22,14;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025718619;2docemarket;30/5/2026;10,06;0;0;0;0;0;0;0;10,06;0;10,06;5.00%;5.00%;0,5;0,5;10,06;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025864907;2docemarket;30/5/2026;27;0;0;0;0;0;0;0;27;0;27;5.00%;5.00%;1,35;1,35;27;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025990387;2docemarket;30/5/2026;16;0;0;0;0;0;0;0;16;0;16;5.00%;5.00%;0,8;0,8;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2025990514;2docemarket;30/5/2026;36,11;0;0;0;0;0;0;0;36,11;0;36,11;5.00%;5.00%;1,81;1,81;36,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2025985902;2docemarket;30/5/2026;8;0;0;0;0;0;0;0;8;0;8;5.00%;5.00%;0,4;0,4;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2026046606;2docemarket;30/5/2026;6,36;0;0;0;0;0;0;0;6,36;0;6,36;5.00%;5.00%;0,32;0,32;6,36;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026047229;2docemarket;30/5/2026;71,83;0;0;0;0;0;0;0;71,83;0;71,83;5.00%;5.00%;3,59;3,59;71,83;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026112457;2docemarket;30/5/2026;14,25;0;0;0;0;0;0;0;14,25;0;14,25;5.00%;5.00%;0,71;0,71;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2026112531;2docemarket;30/5/2026;10,1;0;0;0;0;0;0;0;10,1;0;10,1;5.00%;5.00%;0,51;0,51;10,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026168674;2docemarket;30/5/2026;36;0;0;0;0;0;0;0;36;0;36;5.00%;5.00%;1,8;1,8;36;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026168879;2docemarket;30/5/2026;6,5;0;0;0;0;0;0;0;6,5;0;6,5;5.00%;5.00%;0,33;0,33;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2026207135;2docemarket;30/5/2026;13,25;0;0;0;0;0;0;0;13,25;0;13,25;5.00%;5.00%;0,66;0,66;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2026262608;2docemarket;30/5/2026;5,54;0;0;0;0;0;0;0;5,54;0;5,54;5.00%;5.00%;0,28;0,28;5,54;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026322543;2docemarket;30/5/2026;36;0;0;0;0;0;0;0;36;0;36;5.00%;5.00%;1,8;1,8;36;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026331068;2docemarket;30/5/2026;33,41;0;0;0;0;0;0;0;33,41;0;33,41;5.00%;5.00%;1,67;1,67;33,41;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026332909;2docemarket;30/5/2026;8,21;0;0;0;0;0;0;0;8,21;0;8,21;5.00%;5.00%;0,41;0,41;8,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026437727;2docemarket - 24hrs;30/5/2026;3,5;0;0;0;0;0;0;-0,5;3,5;0;4;5.00%;0.00%;0,2;0;4;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026456273;2docemarket - 24hrs;30/5/2026;16,72;0;0;0;0;0;0;-0,7;16,72;0;17,42;5.00%;0.00%;0,87;0;17,42;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026441795;2docemarket - 24hrs;30/5/2026;8,5;0;0;0;0;0;0;-0,7;8,5;0;9,2;5.00%;0.00%;0,46;0;9,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026457034;2docemarket - 24hrs;30/5/2026;5,93;0;0;0;0;0;0;-0,7;5,93;0;6,63;5.00%;0.00%;0,33;0;6,63;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026503108;2docemarket - 24hrs;30/5/2026;4,11;0;0;0;0;0;0;-0,5;4,11;0;4,61;5.00%;0.00%;0,23;0;4,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026510310;2docemarket - 24hrs;31/5/2026;5,41;0;0;0;0;0;0;-0,5;5,41;0;5,91;5.00%;0.00%;0,3;0;5,91;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026504201;2docemarket - 24hrs;31/5/2026;16;0;0;0;0;0;0;-0,7;16;0;16,7;5.00%;0.00%;0,84;0;16,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026554349;2docemarket - 24hrs;31/5/2026;2,2;0;0;0;0;0;0;-0,7;2,2;0;2,9;5.00%;0.00%;0,15;0;2,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026511306;2docemarket - 24hrs;31/5/2026;3,95;0;0;0;0;0;0;-0,72;3,95;0;4,67;5.00%;0.00%;0,23;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2026554473;2docemarket - 24hrs;31/5/2026;36;0;0;0;0;0;0;-0,4;36;0;36,4;5.00%;0.00%;1,82;0;36,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026511497;2docemarket - 24hrs;31/5/2026;4,11;0;0;0;0;0;0;-0,5;4,11;0;4,61;5.00%;0.00%;0,23;0;4,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026511734;2docemarket - 24hrs;31/5/2026;21,89;0;0;0;0;0;0;-0,5;21,89;0;22,39;5.00%;0.00%;1,12;0;22,39;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026512010;2docemarket - 24hrs;31/5/2026;43,04;0;0;0;0;0;0;-0,7;43,04;0;43,74;5.00%;0.00%;2,19;0;43,74;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026512236;2docemarket - 24hrs;31/5/2026;4,8;0;0;0;0;0;0;-0,7;4,8;0;5,5;5.00%;0.00%;0,28;0;5,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026555715;2docemarket - 24hrs;31/5/2026;16,4;0;0;0;0;0;0;-0,7;16,4;0;17,1;5.00%;0.00%;0,86;0;17,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026512673;2docemarket - 24hrs;31/5/2026;14,8;0;0;0;0;0;0;-0,7;14,8;0;15,5;5.00%;0.00%;0,78;0;15,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026555797;2docemarket - 24hrs;31/5/2026;15,4;0;0;0;0;0;0;-0,7;15,4;0;16,1;5.00%;0.00%;0,81;0;16,1;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026512762;2docemarket - 24hrs;31/5/2026;4,11;0;0;0;0;0;0;-0,5;4,11;0;4,61;5.00%;0.00%;0,23;0;4,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026555961;2docemarket - 24hrs;31/5/2026;21,59;0;0;0;0;0;0;-0,72;21,59;0;22,31;5.00%;0.00%;1,12;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2026512917;2docemarket - 24hrs;31/5/2026;10;0;0;0;0;0;0;-0,4;10;0;10,4;5.00%;0.00%;0,52;0;10,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026556124;2docemarket - 24hrs;31/5/2026;2,5;0;0;0;0;0;0;-0,72;2,5;0;3,22;5.00%;0.00%;0,16;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2026513036;2docemarket - 24hrs;31/5/2026;14,5;0;0;0;0;0;0;-0,5;14,5;0;15;5.00%;0.00%;0,75;0;15;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026513054;2docemarket - 24hrs;31/5/2026;4,11;0;0;0;0;0;0;-0,4;4,11;0;4,51;5.00%;0.00%;0,23;0;4,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026513060;2docemarket - 24hrs;31/5/2026;4,7;0;0;0;0;0;0;-0,5;4,7;0;5,2;5.00%;0.00%;0,26;0;5,2;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026513067;2docemarket - 24hrs;31/5/2026;7,61;0;0;0;0;0;0;-0,5;7,61;0;8,11;5.00%;0.00%;0,41;0;8,11;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026556169;2docemarket - 24hrs;31/5/2026;10;0;0;0;0;0;0;-0,5;10;0;10,5;5.00%;0.00%;0,53;0;10,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026513072;2docemarket - 24hrs;31/5/2026;5,27;0;0;0;1,97;0;0;0;3,68;2,29;5,97;5.00%;0.00%;0,3;0;3,68;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026556175;2docemarket - 24hrs;31/5/2026;10;0;0;0;0;0;0;-0,5;10;0;10,5;5.00%;0.00%;0,53;0;10,5;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026513079;2docemarket - 24hrs;31/5/2026;8,2;0;0;0;0;0;0;-0,7;8,2;0;8,9;5.00%;0.00%;0,45;0;8,9;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2026513343;2docemarket;31/5/2026;35,28;0;0;0;0;0;0;0;35,28;0;35,28;5.00%;5.00%;1,76;1,76;35,28;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026513486;2docemarket;31/5/2026;6,5;0;0;0;0;0;0;0;6,5;0;6,5;5.00%;5.00%;0,33;0,33;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2026513616;2docemarket;31/5/2026;9,44;0;0;0;0;0;0;0;9,44;0;9,44;5.00%;5.00%;0,47;0,47;9,44;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026560240;2doce Market - Valencia;31/5/2026;31,51;0;0;0;0;0;0;0;31,51;0;31,51;5.00%;5.00%;1,58;1,58;31,51;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026602344;2docemarket;31/5/2026;10,24;0;0;0;0;0;0;0;10,24;0;10,24;5.00%;5.00%;0,51;0,51;10,24;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026673933;2docemarket;31/5/2026;7,25;0;0;0;0;0;0;0;7,25;0;7,25;5.00%;5.00%;0,36;0,36;7,25;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026828089;2doce Market - Valencia;31/5/2026;4,4;0;0;0;0;0;0;0;4,4;0;4,4;5.00%;5.00%;0,22;0,22;4,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026828058;2docemarket;31/5/2026;22,4;0;0;0;0;0;0;0;22,4;0;22,4;5.00%;5.00%;1,12;1,12;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2026793340;Dos Doce Bistro;31/5/2026;21,98;0;0;0;0;0;0;0;21,98;0;21,98;5.00%;15.00%;1,1;3,3;21,98;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026903229;2doce Market - Valencia;31/5/2026;23,67;0;0;0;0;0;0;0;23,67;0;23,67;5.00%;5.00%;1,18;1,18;23,67;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026947725;2docemarket;31/5/2026;7,21;0;0;0;0;0;0;0;7,21;0;7,21;5.00%;5.00%;0,36;0,36;7,21;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2026977568;2docemarket;31/5/2026;29,59;0;0;0;25,5;0;0;0;0,01;29,58;29,59;5.00%;5.00%;1,48;1,48;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa
+2027093070;2docemarket;31/5/2026;6,01;0;0;0;0;0;0;0;6,01;0;6,01;5.00%;5.00%;0,3;0,3;6,01;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027138301;2docemarket;31/5/2026;19,68;0;0;0;0;0;0;0;19,68;0;19,68;5.00%;5.00%;0,98;0,98;19,68;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027190259;2docemarket;31/5/2026;10,03;0;0;0;0;0;0;0;10,03;0;10,03;5.00%;5.00%;0,5;0,5;10,03;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027238395;2docemarket;31/5/2026;20;0;0;0;0;0;0;0;20;0;20;5.00%;5.00%;1;1;20;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027266194;2docemarket;31/5/2026;14,46;0;0;0;0;0;0;0;14,46;0;14,46;5.00%;5.00%;0,72;0,72;14,46;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027312539;2docemarket;31/5/2026;35,99;0;0;0;0;0;0;0;35,99;0;35,99;5.00%;5.00%;1,8;1,8;35,99;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027403991;2docemarket;31/5/2026;7,6;0;0;0;0;0;0;0;7,6;0;7,6;5.00%;5.00%;0,38;0,38;7,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027405389;2docemarket;31/5/2026;12,45;0;0;0;0;0;0;0;12,45;0;12,45;5.00%;5.00%;0,62;0,62;12,45;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027428755;2doce Market - Valencia;31/5/2026;4,65;0;0;0;0;0;0;0;4,65;0;4,65;5.00%;5.00%;0,23;0,23;4,65;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027408035;2docemarket;31/5/2026;5,4;0;0;0;0;0;0;0;5,4;0;5,4;5.00%;5.00%;0,27;0,27;5,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027429664;2doce Market - Valencia;31/5/2026;4,77;0;0;0;0;0;0;0;4,77;0;4,77;5.00%;5.00%;0,24;0,24;4,77;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027430737;2doce Market - Valencia;31/5/2026;21,01;0;0;0;3,77;0;0;0;16,64;4,37;21,01;5.00%;5.00%;1,05;1,05;16,64;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027409927;2docemarket;31/5/2026;36;0;0;0;0;0;0;0;36;0;36;5.00%;5.00%;1,8;1,8;36;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027432604;2docemarket;31/5/2026;42,31;0;0;0;0;0;0;0;42,31;0;42,31;5.00%;5.00%;2,12;2,12;42,31;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027563042;2docemarket;31/5/2026;14,81;0;0;0;0;0;0;0;14,81;0;14,81;5.00%;5.00%;0,74;0,74;14,81;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027534833;2docemarket;31/5/2026;40,4;0;0;0;0;0;0;0;40,4;0;40,4;5.00%;5.00%;2,02;2,02;40,4;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027568233;2docemarket;31/5/2026;3;0;0;0;0;0;0;0;3;0;3;5.00%;5.00%;0,15;0,15;3;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027588933;2docemarket;31/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027700730;2docemarket;31/5/2026;6,94;0;0;0;0;0;0;0;6,94;0;6,94;5.00%;5.00%;0,35;0,35;6,94;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027692580;2docemarket;31/5/2026;55,36;0;0;0;0;0;0;0;55,36;0;55,36;5.00%;5.00%;2,77;2,77;55,36;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027704526;2docemarket;31/5/2026;29,29;0;0;0;0;0;0;0;29,29;0;29,29;5.00%;5.00%;1,46;1,46;0;0;No;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2027696631;2docemarket;31/5/2026;12;0;0;0;0;0;0;0;12;0;12;5.00%;5.00%;0,6;0,6;12;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027740247;2docemarket;31/5/2026;8,84;0;0;0;0;0;0;0;8,84;0;8,84;5.00%;5.00%;0,44;0,44;8,84;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027733488;2docemarket;31/5/2026;4,6;0;0;0;0;0;0;0;4,6;0;4,6;5.00%;5.00%;0,23;0,23;4,6;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027742717;2docemarket;31/5/2026;7,53;0;0;0;0;0;0;0;7,53;0;7,53;5.00%;5.00%;0,38;0,38;7,53;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027773163;2docemarket;31/5/2026;3,8;0;0;0;0;0;0;0;3,8;0;3,8;5.00%;5.00%;0,19;0,19;3,8;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027745213;2docemarket;31/5/2026;12,82;0;0;0;0;0;0;0;12,82;0;12,82;5.00%;5.00%;0,64;0,64;12,82;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027811322;2docemarket;31/5/2026;14;0;0;0;0;0;0;0;14;0;14;5.00%;5.00%;0,7;0,7;14;0;No;Pago fuera de la aplicación;Tu Local;Envío de PedidosYa
+2027883462;2docemarket - 24hrs;31/5/2026;7,2;0;0;0;0;0;0;-0,72;7,2;0;7,92;5.00%;0.00%;0,4;0;0;0;No;Pago en la aplicación;PedidosYa;Envío de tu local
+2027883529;2docemarket - 24hrs;31/5/2026;7;0;0;0;0;0;0;-0,7;7;0;7,7;5.00%;0.00%;0,39;0;7,7;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2027872619;2docemarket - 24hrs;31/5/2026;4,05;0;0;0;0;0;0;-0,7;4,05;0;4,75;5.00%;0.00%;0,24;0;4,75;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2027885289;2docemarket - 24hrs;31/5/2026;4,11;0;0;0;0;0;0;-0,5;4,11;0;4,61;5.00%;0.00%;0,23;0;4,61;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2027931602;2docemarket - 24hrs;31/5/2026;6,41;0;0;0;0;0;0;-0,4;6,41;0;6,81;5.00%;0.00%;0,34;0;6,81;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2027933603;2docemarket - 24hrs;31/5/2026;2,44;0;0;0;0;0;0;-0,5;2,44;0;2,94;5.00%;0.00%;0,15;0;2,94;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2027889336;2docemarket - 24hrs;31/5/2026;6,6;0;0;0;0;0;0;-0,7;6,6;0;7,3;5.00%;0.00%;0,37;0;7,3;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+2027889741;2docemarket - 24hrs;31/5/2026;11,85;0;0;0;0;0;0;-0,4;11,85;0;12,25;5.00%;0.00%;0,61;0;12,25;0;No;Pago fuera de la aplicación;Tu Local;Envío de tu local
+DEL_2019946974;Cafein - Las Mercedes;25/5/2026;28,5;0;5;0;0;0;9,25;0;23,5;0;14,25;5.00%;20.00%;0,71;2,85;0;0;Si;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2019946974;Cafein - Las Mercedes;25/5/2026;28,5;0;5;0;0;0;9,25;0;23,5;0;14,25;5.00%;20.00%;0,71;2,85;0;0;Si;Pago fuera de la aplicación;PedidosYa;Envío de PedidosYa
+2020595741;Cafein - Las Mercedes;26/5/2026;12,5;0;0;0;0;0;0;0;12,5;0;12,5;5.00%;20.00%;0,63;2,5;0;0;No;Pago en la aplicación;PedidosYa;Envío de PedidosYa

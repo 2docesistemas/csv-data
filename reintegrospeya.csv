@@ -1,61 +1,71 @@
 ﻿Tipo de Reintegro;Número de pedido;Estado del pedido;Orden entregada al repartidor;Sucursal;Fecha del pedido;Hora confirmada del pedido;Monto del Pedido;% Servicios PedidosYA;Servicios PedidosYa;% de Reintegro;Monto Bruto a reintegrar;Impuesto sobre reintegro;Monto neto a reintegrar
-Reintegro por pedidos que cancelaron los usuarios;2010073910;RECHAZADO;SI;2 Doce Market - Las Mercedes;17/05/2026;19:31:24;17,82;10;1,78;35;6,24;0;6,24
-Reintegro por pedidos que cancelaron los usuarios;2007212868;RECHAZADO;SI;2 Doce Market - Las Mercedes;15/05/2026;20:00:43;26,87;10;2,68;35;9,4;0;9,4
-Reintegro por pedidos que cancelaron los usuarios;2005615157;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/05/2026;15:18:58;14,01;10;1,4;35;4,9;0;4,9
-Reintegro por pedidos que cancelaron los usuarios;2003992595;RECHAZADO;SI;2 Doce Market - 24hrs;13/05/2026;01:41:51;5,86;5;0,32;35;2,05;0;2,05
-Reintegro por pedidos que cancelaron los usuarios;1990870890;RECHAZADO;SI;2 Doce Market - Valencia;02/05/2026;16:12:24;10,31;10;1,04;35;3,61;0;3,61
-Reintegro por pedidos que cancelaron los usuarios;1990073700;RECHAZADO;SI;2 Doce Market - Las Mercedes;01/05/2026;21:17:29;36,73;10;3,68;35;12,86;0;12,86
-Reintegro por pedidos que cancelaron los usuarios;1989948860;RECHAZADO;SI;2 Doce Market - Las Mercedes;01/05/2026;20:17:50;36,73;10;3,68;35;12,86;0;12,86
-Reintegro por pedidos que cancelaron los usuarios;1985803226;RECHAZADO;SI;2 Doce Market - Valencia;28/04/2026;15:49:26;3,21;10;0,32;35;1,12;0;1,12
-Reintegro por pedidos que cancelaron los usuarios;1980276948;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/04/2026;21:44:14;8;10;0,8;35;2,8;0;2,8
-Reintegro por pedidos que cancelaron los usuarios;1973403996;RECHAZADO;SI;2 Doce Market - Las Mercedes;18/04/2026;09:50:34;25;10;2,5;35;8,75;0;8,75
-Reintegro por pedidos que cancelaron los usuarios;1971202612;RECHAZADO;SI;Cafein - Las Mercedes;16/04/2026;13:38:43;13,1;25;3,28;40;5,24;0;5,24
-Reintegro por pedidos que cancelaron los usuarios;1964196082;RECHAZADO;SI;Cafein - Las Mercedes;10/04/2026;15:27:37;4,5;25;1,13;40;1,8;0;1,8
-Reintegro por pedidos que cancelaron los usuarios;1960304228;RECHAZADO;NO;2 Doce Market - 24hrs;07/04/2026;06:49:19;4,15;5;0,24;35;1,45;0;1,45
-Reintegro por pedidos que cancelaron los usuarios;1958108398;RECHAZADO;NO;2 Doce Market - 24hrs;05/04/2026;00:17:45;29,1;5;1,48;35;10,19;0;10,19
-Reintegro por pedidos que cancelaron los usuarios;1955534026;RECHAZADO;SI;2 Doce Market - Las Mercedes;02/04/2026;21:25:58;9,98;10;1;35;3,49;0;3,49
-Reintegro por pedidos que cancelaron los usuarios;1955258771;RECHAZADO;SI;2 Doce Market - Las Mercedes;02/04/2026;19:23:35;8,21;10;0,82;35;2,87;0;2,87
-Reintegro por pedidos que cancelaron los usuarios;1955007014;RECHAZADO;SI;2 Doce Market - Las Mercedes;02/04/2026;16:46:54;40;10;4;35;14;0;14
-Reintegro por pedidos que cancelaron los usuarios;1954345744;RECHAZADO;NO;2 Doce Market - 24hrs;01/04/2026;22:55:35;7,66;5;0,41;35;2,68;0;2,68
-Reintegro por pedidos que cancelaron los usuarios;1953048977;RECHAZADO;NO;2 Doce Market - 24hrs;31/03/2026;22:43:32;3,08;5;0,17;35;1,08;0;1,08
-Reintegro por pedidos que cancelaron los usuarios;1950783672;RECHAZADO;SI;2 Doce Market - 24hrs;29/03/2026;23:02:55;5,72;5;0,31;35;2;0;2
-Reintegro por pedidos que cancelaron los usuarios;1945207991;RECHAZADO;SI;2 Doce Market - Las Mercedes;25/03/2026;16:06:17;3,41;10;0,34;35;1,19;0;1,19
-Reintegro por pedidos que cancelaron los usuarios;1943387954;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/03/2026;19:42:39;1,41;10;0,14;35;0,49;0;0,49
-Reintegro por pedidos que cancelaron los usuarios;1942895456;RECHAZADO;NO;Cafein - Las Mercedes;23/03/2026;13:07:08;12;25;3;20;2,4;0;2,4
-Reintegro por pedidos que cancelaron los usuarios;1942675384;RECHAZADO;NO;2 Doce Market - 24hrs;22/03/2026;23:37:28;13;5;0,69;35;4,55;0;4,55
-Reintegro por pedidos que cancelaron los usuarios;1941143500;RECHAZADO;SI;2 Doce Market - Las Mercedes;21/03/2026;21:50:52;19,8;10;1,98;35;6,93;0;6,93
-Reintegro por pedidos que cancelaron los usuarios;1939826160;RECHAZADO;NO;2 Doce Market - 24hrs;20/03/2026;23:10:09;50,73;5;2,56;35;17,76;0;17,76
-Reintegro por pedidos que cancelaron los usuarios;1936474388;RECHAZADO;NO;2 Doce Market - 24hrs;17/03/2026;23:00:41;2,32;5;0,14;35;0,81;0;0,81
-Reintegro por pedidos que cancelaron los usuarios;1933083385;RECHAZADO;SI;2 Doce Market - 24hrs;14/03/2026;23:36:34;11,8;5;0,62;35;4,13;0;4,13
-Reintegro por pedidos que cancelaron los usuarios;1931874395;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/03/2026;10:53:04;11,41;10;1,14;35;3,99;0;3,99
-Reintegro por pedidos que cancelaron los usuarios;1931468087;RECHAZADO;SI;2 Doce Market - Las Mercedes;13/03/2026;21:11:43;104,13;10;10,42;35;36,45;0;36,45
-Reintegro por pedidos que cancelaron los usuarios;1928053356;RECHAZADO;SI;Cafein - Las Mercedes;10/03/2026;20:38:01;7;25;1,75;40;2,8;0;2,8
-Reintegro por pedidos que cancelaron los usuarios;1927647310;RECHAZADO;SI;2 Doce Market - Las Mercedes;10/03/2026;14:44:27;13,04;10;1,3;35;4,56;0;4,56
-Reintegro por pedidos que cancelaron los usuarios;1926952028;RECHAZADO;SI;2 Doce Market - Las Mercedes;09/03/2026;20:02:44;8;10;0,8;35;2,8;0;2,8
-Reintegro por pedidos que cancelaron los usuarios;1921994408;RECHAZADO;SI;2 Doce Market - 24hrs;06/03/2026;06:57:50;7,2;5;0,37;35;2,52;0;2,52
-Reintegro por pedidos que cancelaron los usuarios;1922772171;RECHAZADO;SI;2 Doce Market - Las Mercedes;06/03/2026;19:02:38;32,45;10;3,24;35;11,36;0;11,36
-Reintegro por pedidos que cancelaron los usuarios;1915762969;RECHAZADO;SI;Cafein - Las Mercedes;28/02/2026;17:37:54;10;25;2,5;40;4;0;4
-Reintegro por pedidos que cancelaron los usuarios;1916078448;RECHAZADO;SI;2 Doce Market - Las Mercedes;28/02/2026;20:31:39;10;10;1;35;3,5;0;3,5
-Reintegro por pedidos que cancelaron los usuarios;1904852273;RECHAZADO;NO;Cafein - Las Mercedes;19/02/2026;12:24:50;7,5;25;1,88;20;1,5;0;1,5
-Reintegro por pedidos que cancelaron los usuarios;1901928370;RECHAZADO;SI;Cafein - Las Mercedes;16/02/2026;19:52:29;6;25;1,5;40;2,4;0;2,4
-Reintegro por pedidos que cancelaron los usuarios;1898815821;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/02/2026;13:35:15;28,8;10;2,88;35;10,08;0;10,08
-Reintegro por pedidos que cancelaron los usuarios;1894729322;RECHAZADO;SI;2 Doce Market - Las Mercedes;10/02/2026;20:57:35;32,57;10;3,26;35;11,4;0;11,4
-Reintegro por pedidos que cancelaron los usuarios;1893891389;RECHAZADO;NO;2 Doce Market - 24hrs;10/02/2026;00:14:19;53,05;5;2,69;35;18,57;0;18,57
-Reintegro por pedidos que cancelaron los usuarios;1894475526;RECHAZADO;SI;2 Doce Market - Las Mercedes;10/02/2026;18:01:43;1,91;10;0,2;35;0,67;0;0,67
-Reintegro por pedidos que cancelaron los usuarios;1893914559;RECHAZADO;SI;2 Doce Market - 24hrs;10/02/2026;01:09:30;7,4;5;0,41;35;2,59;0;2,59
-Reintegro por pedidos que cancelaron los usuarios;1890306135;RECHAZADO;SI;2 Doce Market - Las Mercedes;07/02/2026;09:56:02;4;10;0,4;35;1,4;0;1,4
-Reintegro por pedidos que cancelaron los usuarios;1890006562;RECHAZADO;SI;2 Doce Market - Las Mercedes;06/02/2026;20:57:51;4,3;10;0,44;35;1,51;0;1,51
-Reintegro por pedidos que cancelaron los usuarios;1889868270;RECHAZADO;SI;2 Doce Market - Las Mercedes;06/02/2026;20:02:56;4,61;10;0,46;35;1,61;0;1,61
-Reintegro por pedidos que cancelaron los usuarios;1888973753;RECHAZADO;NO;2 Doce Market - 24hrs;06/02/2026;02:57:15;6,09;5;0,34;35;2,13;0;2,13
-Reintegro por pedidos que cancelaron los usuarios;1878905021;RECHAZADO;SI;2 Doce Market - Las Mercedes;28/01/2026;20:48:39;9,17;10;0,92;35;3,21;0;3,21
-Reintegro por pedidos que cancelaron los usuarios;1876356505;RECHAZADO;SI;2 Doce Market - Las Mercedes;26/01/2026;15:27:46;45,86;10;4,58;35;16,05;0;16,05
-Reintegro por pedidos que cancelaron los usuarios;1875136978;RECHAZADO;SI;2 Doce Market - Las Mercedes;25/01/2026;17:36:31;13,5;10;1,36;35;4,73;0;4,73
-Reintegro por pedidos que cancelaron los usuarios;1872913597;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/01/2026;21:58:44;7,8;10;0,78;35;2,73;0;2,73
-Reintegro por pedidos que cancelaron los usuarios;1872054258;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/01/2026;12:24:31;16;10;1,6;35;5,6;0;5,6
-Reintegro por pedidos que cancelaron los usuarios;1868329914;RECHAZADO;NO;2 Doce Market - 24hrs;20/01/2026;03:54:56;6,56;5;0,35;35;2,3;0;2,3
-Reintegro por pedidos que cancelaron los usuarios;1865837825;RECHAZADO;NO;2 Doce Market - 24hrs;18/01/2026;04:28:56;17;5;0,89;35;5,95;0;5,95
-Reintegro por pedidos que cancelaron los usuarios;1865245396;RECHAZADO;SI;2 Doce Market - Las Mercedes;17/01/2026;19:02:22;12,86;10;1,28;35;4,5;0;4,5
-Reintegro por pedidos que cancelaron los usuarios;1861053195;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/01/2026;12:00:47;9,11;10;0,92;35;3,19;0;3,19
-Reintegro por pedidos que cancelaron los usuarios;1859044250;RECHAZADO;SI;2 Doce Market - Las Mercedes;12/01/2026;13:57:19;8,99;10;0,9;35;3,15;0;3,15
-Reintegro por pedidos que cancelaron los usuarios;1848371934;RECHAZADO;NO;2 Doce Market - 24hrs;02/01/2026;23:50:35;4,9;5;0,28;35;1,72;0;1,72
-Reintegro por pedidos que cancelaron los usuarios;1847129722;RECHAZADO;SI;2 Doce Market - 24hrs;02/01/2026;00:09:22;6,73;5;0,37;35;2,36;0;2,36
+Reintegro por pedidos que cancelaron los usuarios;1848371934;RECHAZADO;NO;2 Doce Market - 24hrs;2/1/2026;23:50:35;4,9;5;0,28;35;1,72;0;1,72
+Reintegro por pedidos que cancelaron los usuarios;1847129722;RECHAZADO;SI;2 Doce Market - 24hrs;2/1/2026;0:09:22;6,73;5;0,37;35;2,36;0;2,36
+Reintegro por pedidos que cancelaron los usuarios;1859044250;RECHAZADO;SI;2 Doce Market - Las Mercedes;12/1/2026;13:57:19;8,99;10;0,9;35;3,15;0;3,15
+Reintegro por pedidos que cancelaron los usuarios;1861053195;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/1/2026;12:00:47;9,11;10;0,92;35;3,19;0;3,19
+Reintegro por pedidos que cancelaron los usuarios;1865245396;RECHAZADO;SI;2 Doce Market - Las Mercedes;17/1/2026;19:02:22;12,86;10;1,28;35;4,5;0;4,5
+Reintegro por pedidos que cancelaron los usuarios;1865837825;RECHAZADO;NO;2 Doce Market - 24hrs;18/1/2026;4:28:56;17;5;0,89;35;5,95;0;5,95
+Reintegro por pedidos que cancelaron los usuarios;1868329914;RECHAZADO;NO;2 Doce Market - 24hrs;20/1/2026;3:54:56;6,56;5;0,35;35;2,3;0;2,3
+Reintegro por pedidos que cancelaron los usuarios;1872913597;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/1/2026;21:58:44;7,8;10;0,78;35;2,73;0;2,73
+Reintegro por pedidos que cancelaron los usuarios;1872054258;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/1/2026;12:24:31;16;10;1,6;35;5,6;0;5,6
+Reintegro por pedidos que cancelaron los usuarios;1875136978;RECHAZADO;SI;2 Doce Market - Las Mercedes;25/1/2026;17:36:31;13,5;10;1,36;35;4,73;0;4,73
+Reintegro por pedidos que cancelaron los usuarios;1876356505;RECHAZADO;SI;2 Doce Market - Las Mercedes;26/1/2026;15:27:46;45,86;10;4,58;35;16,05;0;16,05
+Reintegro por pedidos que cancelaron los usuarios;1878905021;RECHAZADO;SI;2 Doce Market - Las Mercedes;28/1/2026;20:48:39;9,17;10;0,92;35;3,21;0;3,21
+Reintegro por pedidos que cancelaron los usuarios;1890006562;RECHAZADO;SI;2 Doce Market - Las Mercedes;6/2/2026;20:57:51;4,3;10;0,44;35;1,51;0;1,51
+Reintegro por pedidos que cancelaron los usuarios;1889868270;RECHAZADO;SI;2 Doce Market - Las Mercedes;6/2/2026;20:02:56;4,61;10;0,46;35;1,61;0;1,61
+Reintegro por pedidos que cancelaron los usuarios;1888973753;RECHAZADO;NO;2 Doce Market - 24hrs;6/2/2026;2:57:15;6,09;5;0,34;35;2,13;0;2,13
+Reintegro por pedidos que cancelaron los usuarios;1890306135;RECHAZADO;SI;2 Doce Market - Las Mercedes;7/2/2026;9:56:02;4;10;0,4;35;1,4;0;1,4
+Reintegro por pedidos que cancelaron los usuarios;1894729322;RECHAZADO;SI;2 Doce Market - Las Mercedes;10/2/2026;20:57:35;32,57;10;3,26;35;11,4;0;11,4
+Reintegro por pedidos que cancelaron los usuarios;1893891389;RECHAZADO;NO;2 Doce Market - 24hrs;10/2/2026;0:14:19;53,05;5;2,69;35;18,57;0;18,57
+Reintegro por pedidos que cancelaron los usuarios;1894475526;RECHAZADO;SI;2 Doce Market - Las Mercedes;10/2/2026;18:01:43;1,91;10;0,2;35;0,67;0;0,67
+Reintegro por pedidos que cancelaron los usuarios;1893914559;RECHAZADO;SI;2 Doce Market - 24hrs;10/2/2026;1:09:30;7,4;5;0,41;35;2,59;0;2,59
+Reintegro por pedidos que cancelaron los usuarios;1898815821;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/2/2026;13:35:15;28,8;10;2,88;35;10,08;0;10,08
+Reintegro por pedidos que cancelaron los usuarios;1901928370;RECHAZADO;SI;Cafein - Las Mercedes;16/2/2026;19:52:29;6;25;1,5;40;2,4;0;2,4
+Reintegro por pedidos que cancelaron los usuarios;1904852273;RECHAZADO;NO;Cafein - Las Mercedes;19/2/2026;12:24:50;7,5;25;1,88;20;1,5;0;1,5
+Reintegro por pedidos que cancelaron los usuarios;1915762969;RECHAZADO;SI;Cafein - Las Mercedes;28/2/2026;17:37:54;10;25;2,5;40;4;0;4
+Reintegro por pedidos que cancelaron los usuarios;1916078448;RECHAZADO;SI;2 Doce Market - Las Mercedes;28/2/2026;20:31:39;10;10;1;35;3,5;0;3,5
+Reintegro por pedidos que cancelaron los usuarios;1921994408;RECHAZADO;SI;2 Doce Market - 24hrs;6/3/2026;6:57:50;7,2;5;0,37;35;2,52;0;2,52
+Reintegro por pedidos que cancelaron los usuarios;1922772171;RECHAZADO;SI;2 Doce Market - Las Mercedes;6/3/2026;19:02:38;32,45;10;3,24;35;11,36;0;11,36
+Reintegro por pedidos que cancelaron los usuarios;1926952028;RECHAZADO;SI;2 Doce Market - Las Mercedes;9/3/2026;20:02:44;8;10;0,8;35;2,8;0;2,8
+Reintegro por pedidos que cancelaron los usuarios;1928053356;RECHAZADO;SI;Cafein - Las Mercedes;10/3/2026;20:38:01;7;25;1,75;40;2,8;0;2,8
+Reintegro por pedidos que cancelaron los usuarios;1927647310;RECHAZADO;SI;2 Doce Market - Las Mercedes;10/3/2026;14:44:27;13,04;10;1,3;35;4,56;0;4,56
+Reintegro por pedidos que cancelaron los usuarios;1931468087;RECHAZADO;SI;2 Doce Market - Las Mercedes;13/3/2026;21:11:43;104,13;10;10,42;35;36,45;0;36,45
+Reintegro por pedidos que cancelaron los usuarios;1933083385;RECHAZADO;SI;2 Doce Market - 24hrs;14/3/2026;23:36:34;11,8;5;0,62;35;4,13;0;4,13
+Reintegro por pedidos que cancelaron los usuarios;1931874395;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/3/2026;10:53:04;11,41;10;1,14;35;3,99;0;3,99
+Reintegro por pedidos que cancelaron los usuarios;1936474388;RECHAZADO;NO;2 Doce Market - 24hrs;17/3/2026;23:00:41;2,32;5;0,14;35;0,81;0;0,81
+Reintegro por pedidos que cancelaron los usuarios;1939826160;RECHAZADO;NO;2 Doce Market - 24hrs;20/3/2026;23:10:09;50,73;5;2,56;35;17,76;0;17,76
+Reintegro por pedidos que cancelaron los usuarios;1941143500;RECHAZADO;SI;2 Doce Market - Las Mercedes;21/3/2026;21:50:52;19,8;10;1,98;35;6,93;0;6,93
+Reintegro por pedidos que cancelaron los usuarios;1942675384;RECHAZADO;NO;2 Doce Market - 24hrs;22/3/2026;23:37:28;13;5;0,69;35;4,55;0;4,55
+Reintegro por pedidos que cancelaron los usuarios;1943387954;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/3/2026;19:42:39;1,41;10;0,14;35;0,49;0;0,49
+Reintegro por pedidos que cancelaron los usuarios;1942895456;RECHAZADO;NO;Cafein - Las Mercedes;23/3/2026;13:07:08;12;25;3;20;2,4;0;2,4
+Reintegro por pedidos que cancelaron los usuarios;1945207991;RECHAZADO;SI;2 Doce Market - Las Mercedes;25/3/2026;16:06:17;3,41;10;0,34;35;1,19;0;1,19
+Reintegro por pedidos que cancelaron los usuarios;1950783672;RECHAZADO;SI;2 Doce Market - 24hrs;29/3/2026;23:02:55;5,72;5;0,31;35;2;0;2
+Reintegro por pedidos que cancelaron los usuarios;1953048977;RECHAZADO;NO;2 Doce Market - 24hrs;31/3/2026;22:43:32;3,08;5;0,17;35;1,08;0;1,08
+Reintegro por pedidos que cancelaron los usuarios;1954345744;RECHAZADO;NO;2 Doce Market - 24hrs;1/4/2026;22:55:35;7,66;5;0,41;35;2,68;0;2,68
+Reintegro por pedidos que cancelaron los usuarios;1955534026;RECHAZADO;SI;2 Doce Market - Las Mercedes;2/4/2026;21:25:58;9,98;10;1;35;3,49;0;3,49
+Reintegro por pedidos que cancelaron los usuarios;1955258771;RECHAZADO;SI;2 Doce Market - Las Mercedes;2/4/2026;19:23:35;8,21;10;0,82;35;2,87;0;2,87
+Reintegro por pedidos que cancelaron los usuarios;1955007014;RECHAZADO;SI;2 Doce Market - Las Mercedes;2/4/2026;16:46:54;40;10;4;35;14;0;14
+Reintegro por pedidos que cancelaron los usuarios;1958108398;RECHAZADO;NO;2 Doce Market - 24hrs;5/4/2026;0:17:45;29,1;5;1,48;35;10,19;0;10,19
+Reintegro por pedidos que cancelaron los usuarios;1960304228;RECHAZADO;NO;2 Doce Market - 24hrs;7/4/2026;6:49:19;4,15;5;0,24;35;1,45;0;1,45
+Reintegro por pedidos que cancelaron los usuarios;1964196082;RECHAZADO;SI;Cafein - Las Mercedes;10/4/2026;15:27:37;4,5;25;1,13;40;1,8;0;1,8
+Reintegro por pedidos que cancelaron los usuarios;1971202612;RECHAZADO;SI;Cafein - Las Mercedes;16/4/2026;13:38:43;13,1;25;3,28;40;5,24;0;5,24
+Reintegro por pedidos que cancelaron los usuarios;1973403996;RECHAZADO;SI;2 Doce Market - Las Mercedes;18/4/2026;9:50:34;25;10;2,5;35;8,75;0;8,75
+Reintegro por pedidos que cancelaron los usuarios;1980276948;RECHAZADO;SI;2 Doce Market - Las Mercedes;23/4/2026;21:44:14;8;10;0,8;35;2,8;0;2,8
+Reintegro por pedidos que cancelaron los usuarios;1985803226;RECHAZADO;SI;2 Doce Market - Valencia;28/4/2026;15:49:26;3,21;10;0,32;35;1,12;0;1,12
+Reintegro por pedidos que cancelaron los usuarios;1990073700;RECHAZADO;SI;2 Doce Market - Las Mercedes;1/5/2026;21:17:29;36,73;10;3,68;35;12,86;0;12,86
+Reintegro por pedidos que cancelaron los usuarios;1989948860;RECHAZADO;SI;2 Doce Market - Las Mercedes;1/5/2026;20:17:50;36,73;10;3,68;35;12,86;0;12,86
+Reintegro por pedidos que cancelaron los usuarios;1990870890;RECHAZADO;SI;2 Doce Market - Valencia;2/5/2026;16:12:24;10,31;10;1,04;35;3,61;0;3,61
+Reintegro por pedidos que cancelaron los usuarios;2003992595;RECHAZADO;SI;2 Doce Market - 24hrs;13/5/2026;1:41:51;5,86;5;0,32;35;2,05;0;2,05
+Reintegro por pedidos que cancelaron los usuarios;2005615157;RECHAZADO;SI;2 Doce Market - Las Mercedes;14/5/2026;15:18:58;14,01;10;1,4;35;4,9;0;4,9
+Reintegro por pedidos que cancelaron los usuarios;2007212868;RECHAZADO;SI;2 Doce Market - Las Mercedes;15/5/2026;20:00:43;26,87;10;2,68;35;9,4;0;9,4
+Reintegro por pedidos que cancelaron los usuarios;2010073910;RECHAZADO;SI;2 Doce Market - Las Mercedes;17/5/2026;19:31:24;17,82;10;1,78;35;6,24;0;6,24
+Reintegro por pedidos que cancelaron los usuarios;2013180127;RECHAZADO;SI;2doce Market - Valencia;20/05/2026;18:34:34;1,60;10;0,16;35;0,56;0;0,56
+Reintegro por pedidos que cancelaron los usuarios;2015351475;RECHAZADO;SI;2docemarket;22/05/2026;17:40:04;54,93;10;5,50;35;19,23;0;19,23
+Reintegro por pedidos que cancelaron los usuarios;2016040362;RECHAZADO;SI;2docemarket;23/05/2026;07:21:45;3,80;10;0,38;35;1,33;0;1,33
+Reintegro por pedidos que cancelaron los usuarios;2017449416;RECHAZADO;NO;2docemarket - 24hrs;23/05/2026;23:41:52;17,20;5;0,91;35;6,02;0;6,02
+Reintegro por pedidos que cancelaron los usuarios;REF;RECHAZADO;SI;2docemarket;27/05/2026;21:26:56;7,14;10;0,72;35;2,50;0;2,50
+Reintegro por pedidos que cancelaron los usuarios;2022097086;RECHAZADO;SI;2docemarket;27/05/2026;21:26:56;7,14;10;0,72;35;2,50;0;2,50
+Reintegro por pedidos que cancelaron los usuarios;2024608249;RECHAZADO;SI;2docemarket;29/05/2026;20:19:40;10,00;10;1,00;35;3,50;0;3,50
+Reintegro por pedidos que cancelaron los usuarios;2026579438;RECHAZADO;SI;2docemarket;31/05/2026;08:47:56;14,10;10;1,42;35;4,94;0;4,94
+Reintegro por pedidos que cancelaron los usuarios;2027469529;RECHAZADO;SI;2docemarket;31/05/2026;19:25:39;14,81;10;1,48;35;5,18;0;5,18
+Reintegro por pedidos que cancelaron los usuarios;2023803079;RECHAZADO;NO;Cafein - Las Mercedes;29/05/2026;11:49:14;10,25;25;2,56;20;2,05;0;2,05
